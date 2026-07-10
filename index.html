@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Show Jump Central — Global horse show jumping results, videos, riders</title>
+<meta name="description" content="Live scores, results, rider profiles, world rankings and video rounds from every major show jumping competition worldwide — FEI, LGCT, USEF and more.">
+<meta name="theme-color" content="#0b0f16">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E🐴%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://i.ytimg.com">
+<link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="#/">
+      <span class="logo">🐎</span>
+      <span class="name">Show Jump <span class="accent">Central</span></span>
+    </a>
+    <nav class="tabs">
+      <a data-route="/" class="tab">Home</a>
+      <a data-route="/live" class="tab">Live</a>
+      <a data-route="/events" class="tab">Events</a>
+      <a data-route="/rankings" class="tab">Rankings</a>
+      <a data-route="/riders" class="tab">Riders</a>
+      <a data-route="/videos" class="tab">Videos</a>
+    </nav>
+    <div class="right">
+      <input id="search" class="search" placeholder="Search rider, horse, event…" />
+      <button id="refresh" title="Refresh" class="iconbtn">↻</button>
+    </div>
+  </div>
+  <div class="ticker" id="ticker"></div>
+</header>
+
+<main id="app" class="wrap"></main>
+
+<footer class="foot">
+  <div class="wrap">
+    <div>
+      Aggregated from
+      <span id="src-list"></span>.
+    </div>
+    <div class="muted">
+      Data refreshed <span id="updated">—</span> · Not affiliated with any federation.
+      <a href="https://github.com" target="_blank" rel="noopener" id="repo-link">Source</a>
+    </div>
+  </div>
+</footer>
+
+<template id="tpl-event-card">
+  <a class="event-card" href="">
+    <div class="cover"></div>
+    <div class="body">
+      <div class="row1">
+        <span class="level"></span>
+        <span class="status"></span>
+      </div>
+      <h3 class="name"></h3>
+      <div class="meta"></div>
+      <div class="circuit"></div>
+    </div>
+  </a>
+</template>
+
+<script src="src/app.js" defer></script>
+</body>
+</html>

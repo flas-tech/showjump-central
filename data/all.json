@@ -1,0 +1,992 @@
+{
+  "updated": "2026-07-09T18:59:05.608421+00:00",
+  "events": [
+    {
+      "id": "seed-3",
+      "name": "Dublin Horse Show \u2014 Aga Khan Nations Cup",
+      "venue": "Dublin",
+      "country": "IRL",
+      "start": "2026-08-08",
+      "end": "2026-08-08",
+      "level": "CSIO5*",
+      "circuit": "Longines League of Nations",
+      "source": "Curated",
+      "source_url": "https://www.dublinhorseshow.com/",
+      "image": "",
+      "status": "upcoming",
+      "classes": []
+    },
+    {
+      "id": "seed-5",
+      "name": "Spruce Meadows Masters",
+      "venue": "Calgary",
+      "country": "CAN",
+      "start": "2026-09-09",
+      "end": "2026-09-13",
+      "level": "CSIO5*",
+      "circuit": "Rolex Grand Slam",
+      "source": "Curated",
+      "source_url": "https://www.sprucemeadows.com/",
+      "image": "",
+      "status": "upcoming",
+      "classes": []
+    },
+    {
+      "id": "seed-2",
+      "name": "CHIO Aachen \u2014 Rolex Grand Prix",
+      "venue": "Aachen",
+      "country": "GER",
+      "start": "2026-07-05",
+      "end": "2026-07-05",
+      "level": "CSIO5*",
+      "circuit": "Rolex Grand Slam",
+      "source": "Curated",
+      "source_url": "https://chioaachen.de/",
+      "image": "",
+      "status": "past",
+      "classes": []
+    },
+    {
+      "id": "seed-1",
+      "name": "LGCT Grand Prix of Monaco",
+      "venue": "Monaco",
+      "country": "MON",
+      "start": "2026-07-04",
+      "end": "2026-07-04",
+      "level": "CSI5*",
+      "circuit": "Longines Global Champions Tour",
+      "source": "Curated",
+      "source_url": "https://www.gcglobalchampions.com/",
+      "image": "",
+      "status": "past",
+      "classes": []
+    },
+    {
+      "id": "gc-302",
+      "name": "LGCT of Monaco",
+      "venue": "Monaco",
+      "country": "",
+      "start": "2026-07-02",
+      "end": "2026-07-04",
+      "level": "CSI5*",
+      "circuit": "Longines Global Champions Tour",
+      "source": "Global Champions",
+      "source_url": "https://www.gcglobalchampions.com/",
+      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/00/15480-9%20MONACO.jpg?v=1-0",
+      "status": "past",
+      "classes": []
+    },
+    {
+      "id": "seed-4",
+      "name": "Winter Equestrian Festival \u2014 Week 12",
+      "venue": "Wellington",
+      "country": "USA",
+      "start": "2026-03-24",
+      "end": "2026-03-29",
+      "level": "CSI5*",
+      "circuit": "WEF",
+      "source": "Curated",
+      "source_url": "https://www.wellingtoninternational.com/",
+      "image": "",
+      "status": "past",
+      "classes": []
+    },
+    {
+      "id": "htx-21331",
+      "name": "Wellington FL \u2014 WEF",
+      "venue": "",
+      "country": "",
+      "start": "",
+      "end": "",
+      "level": "",
+      "circuit": "",
+      "source": "HorseTelex",
+      "source_url": "https://horsetelexresults.com/tourneys/21331",
+      "image": "",
+      "status": "",
+      "classes": []
+    },
+    {
+      "id": "htx-19050",
+      "name": "Wellington FL \u2014 Equestrian Center",
+      "venue": "",
+      "country": "",
+      "start": "",
+      "end": "",
+      "level": "",
+      "circuit": "",
+      "source": "HorseTelex",
+      "source_url": "https://horsetelexresults.com/tourneys/19050",
+      "image": "",
+      "status": "",
+      "classes": []
+    },
+    {
+      "id": "sgl-wellington",
+      "name": "Wellington International",
+      "venue": "Wellington International",
+      "country": "USA",
+      "start": "",
+      "end": "",
+      "level": "",
+      "circuit": "",
+      "source": "ShowGroundsLive",
+      "source_url": "https://wellington.showgroundslive.com/",
+      "image": "",
+      "status": "",
+      "classes": []
+    },
+    {
+      "id": "sgl-wec",
+      "name": "World Equestrian Center",
+      "venue": "World Equestrian Center",
+      "country": "USA",
+      "start": "",
+      "end": "",
+      "level": "",
+      "circuit": "",
+      "source": "ShowGroundsLive",
+      "source_url": "https://wec.showgroundslive.com/",
+      "image": "",
+      "status": "",
+      "classes": []
+    },
+    {
+      "id": "sgl-desert",
+      "name": "Desert International Horse Park",
+      "venue": "Desert International Horse Park",
+      "country": "USA",
+      "start": "",
+      "end": "",
+      "level": "",
+      "circuit": "",
+      "source": "ShowGroundsLive",
+      "source_url": "https://desert.showgroundslive.com/",
+      "image": "",
+      "status": "",
+      "classes": []
+    }
+  ],
+  "results": [
+    {
+      "event_id": "seed-1",
+      "event_name": "LGCT Grand Prix of Monaco",
+      "class_name": "Grand Prix 1.60m",
+      "rank": 1,
+      "rider": "Max K\u00fchner",
+      "nation": "AUT",
+      "horse": "EIC Up Too Jacco Blue",
+      "faults": "0/0",
+      "time": "38.36",
+      "prize": "\u20ac 100,000",
+      "source": "Curated",
+      "source_url": "https://www.gcglobalchampions.com/"
+    },
+    {
+      "event_id": "seed-1",
+      "event_name": "LGCT Grand Prix of Monaco",
+      "class_name": "Grand Prix 1.60m",
+      "rank": 2,
+      "rider": "Christian Kukuk",
+      "nation": "GER",
+      "horse": "Just Be Gentle",
+      "faults": "0/0",
+      "time": "39.12",
+      "prize": "\u20ac 60,000",
+      "source": "Curated",
+      "source_url": "https://www.gcglobalchampions.com/"
+    },
+    {
+      "event_id": "seed-1",
+      "event_name": "LGCT Grand Prix of Monaco",
+      "class_name": "Grand Prix 1.60m",
+      "rank": 3,
+      "rider": "Ben Maher",
+      "nation": "GBR",
+      "horse": "Point Break",
+      "faults": "0/0",
+      "time": "39.87",
+      "prize": "\u20ac 40,000",
+      "source": "Curated",
+      "source_url": "https://www.gcglobalchampions.com/"
+    },
+    {
+      "event_id": "seed-2",
+      "event_name": "CHIO Aachen \u2014 Rolex Grand Prix",
+      "class_name": "Rolex Grand Prix 1.65m",
+      "rank": 1,
+      "rider": "Henrik von Eckermann",
+      "nation": "SWE",
+      "horse": "Iliana",
+      "faults": "0/0",
+      "time": "42.11",
+      "prize": "\u20ac 330,000",
+      "source": "Curated",
+      "source_url": "https://chioaachen.de/"
+    },
+    {
+      "event_id": "seed-2",
+      "event_name": "CHIO Aachen \u2014 Rolex Grand Prix",
+      "class_name": "Rolex Grand Prix 1.65m",
+      "rank": 2,
+      "rider": "Steve Guerdat",
+      "nation": "SUI",
+      "horse": "Dynamix de Belheme",
+      "faults": "0/0",
+      "time": "43.05",
+      "prize": "\u20ac 200,000",
+      "source": "Curated",
+      "source_url": "https://chioaachen.de/"
+    },
+    {
+      "event_id": "seed-4",
+      "event_name": "WEF Week 12",
+      "class_name": "$500,000 Rolex Grand Prix CSI5*",
+      "rank": 1,
+      "rider": "Kent Farrington",
+      "nation": "USA",
+      "horse": "Greya",
+      "faults": "0/0",
+      "time": "35.44",
+      "prize": "$ 165,000",
+      "source": "Curated",
+      "source_url": "https://www.wellingtoninternational.com/"
+    },
+    {
+      "event_id": "seed-4",
+      "event_name": "WEF Week 12",
+      "class_name": "$500,000 Rolex Grand Prix CSI5*",
+      "rank": 2,
+      "rider": "McLain Ward",
+      "nation": "USA",
+      "horse": "Ilex",
+      "faults": "0/0",
+      "time": "36.08",
+      "prize": "$ 100,000",
+      "source": "Curated",
+      "source_url": "https://www.wellingtoninternational.com/"
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "rider": "Henrik von Eckermann",
+      "nation": "SWE",
+      "points": 3500,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 2,
+      "rider": "Kent Farrington",
+      "nation": "USA",
+      "points": 3455,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 3,
+      "rider": "Steve Guerdat",
+      "nation": "SUI",
+      "points": 3410,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 4,
+      "rider": "Martin Fuchs",
+      "nation": "SUI",
+      "points": 3365,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 5,
+      "rider": "Gilles Thomas",
+      "nation": "BEL",
+      "points": 3320,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 6,
+      "rider": "Ben Maher",
+      "nation": "GBR",
+      "points": 3275,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 7,
+      "rider": "Julien Epaillard",
+      "nation": "FRA",
+      "points": 3230,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 8,
+      "rider": "Daniel Deusser",
+      "nation": "GER",
+      "points": 3185,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 9,
+      "rider": "Peder Fredricson",
+      "nation": "SWE",
+      "points": 3140,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 10,
+      "rider": "Scott Brash",
+      "nation": "GBR",
+      "points": 3095,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 11,
+      "rider": "McLain Ward",
+      "nation": "USA",
+      "points": 3050,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 12,
+      "rider": "Jos Verlooy",
+      "nation": "BEL",
+      "points": 3005,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 13,
+      "rider": "Simon Delestre",
+      "nation": "FRA",
+      "points": 2960,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 14,
+      "rider": "Marlon M\u00f3dolo Zanotelli",
+      "nation": "BRA",
+      "points": 2915,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 15,
+      "rider": "Harrie Smolders",
+      "nation": "NED",
+      "points": 2870,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 16,
+      "rider": "Max K\u00fchner",
+      "nation": "AUT",
+      "points": 2825,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 17,
+      "rider": "Christian Kukuk",
+      "nation": "GER",
+      "points": 2780,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 18,
+      "rider": "Bertram Allen",
+      "nation": "IRL",
+      "points": 2735,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 19,
+      "rider": "Lillie Keenan",
+      "nation": "USA",
+      "points": 2690,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    },
+    {
+      "rank": 20,
+      "rider": "Karl Cook",
+      "nation": "USA",
+      "points": 2645,
+      "prev_rank": null,
+      "source": "FEI (cached)"
+    }
+  ],
+  "riders": [
+    {
+      "name": "Henrik von Eckermann",
+      "nation": "SWE",
+      "starts": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "horses": [
+        "Iliana"
+      ],
+      "events": [
+        "CHIO Aachen \u2014 Rolex Grand Prix"
+      ],
+      "results": [
+        {
+          "event": "CHIO Aachen \u2014 Rolex Grand Prix",
+          "class": "Rolex Grand Prix 1.65m",
+          "rank": 1,
+          "horse": "Iliana",
+          "faults": "0/0",
+          "time": "42.11"
+        }
+      ],
+      "world_rank": 1,
+      "world_points": 3500
+    },
+    {
+      "name": "Kent Farrington",
+      "nation": "USA",
+      "starts": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "horses": [
+        "Greya"
+      ],
+      "events": [
+        "WEF Week 12"
+      ],
+      "results": [
+        {
+          "event": "WEF Week 12",
+          "class": "$500,000 Rolex Grand Prix CSI5*",
+          "rank": 1,
+          "horse": "Greya",
+          "faults": "0/0",
+          "time": "35.44"
+        }
+      ],
+      "world_rank": 2,
+      "world_points": 3455
+    },
+    {
+      "name": "Steve Guerdat",
+      "nation": "SUI",
+      "starts": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "horses": [
+        "Dynamix de Belheme"
+      ],
+      "events": [
+        "CHIO Aachen \u2014 Rolex Grand Prix"
+      ],
+      "results": [
+        {
+          "event": "CHIO Aachen \u2014 Rolex Grand Prix",
+          "class": "Rolex Grand Prix 1.65m",
+          "rank": 2,
+          "horse": "Dynamix de Belheme",
+          "faults": "0/0",
+          "time": "43.05"
+        }
+      ],
+      "world_rank": 3,
+      "world_points": 3410
+    },
+    {
+      "name": "Martin Fuchs",
+      "nation": "SUI",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 4,
+      "world_points": 3365
+    },
+    {
+      "name": "Gilles Thomas",
+      "nation": "BEL",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 5,
+      "world_points": 3320
+    },
+    {
+      "name": "Ben Maher",
+      "nation": "GBR",
+      "starts": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "horses": [
+        "Point Break"
+      ],
+      "events": [
+        "LGCT Grand Prix of Monaco"
+      ],
+      "results": [
+        {
+          "event": "LGCT Grand Prix of Monaco",
+          "class": "Grand Prix 1.60m",
+          "rank": 3,
+          "horse": "Point Break",
+          "faults": "0/0",
+          "time": "39.87"
+        }
+      ],
+      "world_rank": 6,
+      "world_points": 3275
+    },
+    {
+      "name": "Julien Epaillard",
+      "nation": "FRA",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 7,
+      "world_points": 3230
+    },
+    {
+      "name": "Daniel Deusser",
+      "nation": "GER",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 8,
+      "world_points": 3185
+    },
+    {
+      "name": "Peder Fredricson",
+      "nation": "SWE",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 9,
+      "world_points": 3140
+    },
+    {
+      "name": "Scott Brash",
+      "nation": "GBR",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 10,
+      "world_points": 3095
+    },
+    {
+      "name": "McLain Ward",
+      "nation": "USA",
+      "starts": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "horses": [
+        "Ilex"
+      ],
+      "events": [
+        "WEF Week 12"
+      ],
+      "results": [
+        {
+          "event": "WEF Week 12",
+          "class": "$500,000 Rolex Grand Prix CSI5*",
+          "rank": 2,
+          "horse": "Ilex",
+          "faults": "0/0",
+          "time": "36.08"
+        }
+      ],
+      "world_rank": 11,
+      "world_points": 3050
+    },
+    {
+      "name": "Jos Verlooy",
+      "nation": "BEL",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 12,
+      "world_points": 3005
+    },
+    {
+      "name": "Simon Delestre",
+      "nation": "FRA",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 13,
+      "world_points": 2960
+    },
+    {
+      "name": "Marlon M\u00f3dolo Zanotelli",
+      "nation": "BRA",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 14,
+      "world_points": 2915
+    },
+    {
+      "name": "Harrie Smolders",
+      "nation": "NED",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 15,
+      "world_points": 2870
+    },
+    {
+      "name": "Max K\u00fchner",
+      "nation": "AUT",
+      "starts": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "horses": [
+        "EIC Up Too Jacco Blue"
+      ],
+      "events": [
+        "LGCT Grand Prix of Monaco"
+      ],
+      "results": [
+        {
+          "event": "LGCT Grand Prix of Monaco",
+          "class": "Grand Prix 1.60m",
+          "rank": 1,
+          "horse": "EIC Up Too Jacco Blue",
+          "faults": "0/0",
+          "time": "38.36"
+        }
+      ],
+      "world_rank": 16,
+      "world_points": 2825
+    },
+    {
+      "name": "Christian Kukuk",
+      "nation": "GER",
+      "starts": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "horses": [
+        "Just Be Gentle"
+      ],
+      "events": [
+        "LGCT Grand Prix of Monaco"
+      ],
+      "results": [
+        {
+          "event": "LGCT Grand Prix of Monaco",
+          "class": "Grand Prix 1.60m",
+          "rank": 2,
+          "horse": "Just Be Gentle",
+          "faults": "0/0",
+          "time": "39.12"
+        }
+      ],
+      "world_rank": 17,
+      "world_points": 2780
+    },
+    {
+      "name": "Bertram Allen",
+      "nation": "IRL",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 18,
+      "world_points": 2735
+    },
+    {
+      "name": "Lillie Keenan",
+      "nation": "USA",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 19,
+      "world_points": 2690
+    },
+    {
+      "name": "Karl Cook",
+      "nation": "USA",
+      "starts": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "horses": [],
+      "events": [],
+      "results": [],
+      "world_rank": 20,
+      "world_points": 2645
+    }
+  ],
+  "videos": [
+    {
+      "title": "LGCT Monaco 2026 - Wrap Up",
+      "url": "https://www.youtube.com/watch?v=1K49bgbl2sc",
+      "thumbnail": "https://i.ytimg.com/vi/1K49bgbl2sc/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "LIVE STUDIO - LGCT Grand Prix of Monaco - Pre-Show",
+      "url": "https://www.youtube.com/watch?v=SvFiX3_u8IM",
+      "thumbnail": "https://i.ytimg.com/vi/SvFiX3_u8IM/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-05",
+      "source": "YouTube"
+    },
+    {
+      "title": "Stephan de Freitas Barcha Reacts to First 5* LGCT GP Win \ud83c\udfc6 | Winner Interview",
+      "url": "https://www.youtube.com/watch?v=y8a3z3ZPcmk",
+      "thumbnail": "https://i.ytimg.com/vi/y8a3z3ZPcmk/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "Sports Highlights \ud83c\udfc6  Stephan de Freitas Barcha\u2019s Historic First 5* Victory | LGCT Grand Prix Monaco",
+      "url": "https://www.youtube.com/watch?v=l67Craipuj8",
+      "thumbnail": "https://i.ytimg.com/vi/l67Craipuj8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83c\udfc6 0.20 Seconds Decided It! Barcha vs Bucci | Head-to-Head LGCT Grand Prix of Monaco \ud83c\uddf2\ud83c\udde8",
+      "url": "https://www.youtube.com/watch?v=-qQY2ZieSA8",
+      "thumbnail": "https://i.ytimg.com/vi/-qQY2ZieSA8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "Stephan de Freitas Barcha Reacts to First 5* LGCT GP Win \ud83c\udfc6 | Winner Interview",
+      "url": "https://www.youtube.com/watch?v=sSC7zALNKf8",
+      "thumbnail": "https://i.ytimg.com/vi/sSC7zALNKf8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "First 5* LGCT Grand Prix Win for Stephan de Freitas Barcha! \ud83c\udfc6 LGCT Monaco Grand Prix 2026",
+      "url": "https://www.youtube.com/watch?v=X86O9ywoqOU",
+      "thumbnail": "https://i.ytimg.com/vi/X86O9ywoqOU/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "Pieter Devos Takes Monaco Victory with Jarina J \ud83c\udfc6 | CSI5* 1.45m",
+      "url": "https://www.youtube.com/watch?v=y-7Yd3Sm0hs",
+      "thumbnail": "https://i.ytimg.com/vi/y-7Yd3Sm0hs/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "Pieter Devos Takes Monaco Victory with Jarina J \ud83c\udfc6 | CSI5* 1.45m",
+      "url": "https://www.youtube.com/watch?v=N7UW6XNKtvM",
+      "thumbnail": "https://i.ytimg.com/vi/N7UW6XNKtvM/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "Kaitlin Campbell &amp; Cosm Hesed Win in Monaco \ud83c\udfc6 | CSI2* 1.45m",
+      "url": "https://www.youtube.com/watch?v=vSPNlnknu-k",
+      "thumbnail": "https://i.ytimg.com/vi/vSPNlnknu-k/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-04",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Arthramid Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
+      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "WEF 2027 Teaser",
+      "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
+      "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Arthramid Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oDCghbdOITM",
+      "thumbnail": "https://i.ytimg.com/vi/oDCghbdOITM/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-07",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 LeMieux Grand Prix",
+      "url": "https://www.youtube.com/watch?v=EVHstM2e19I",
+      "thumbnail": "https://i.ytimg.com/vi/EVHstM2e19I/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-01",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 IDA Development Regional Grand Prix",
+      "url": "https://www.youtube.com/watch?v=Q3dXYvCQcgk",
+      "thumbnail": "https://i.ytimg.com/vi/Q3dXYvCQcgk/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-05-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Mark Bluman &amp; S &amp; L Hello Sunshine | $120,000 Palm Beach County Sports Commission CSI3* Grand Prix",
+      "url": "https://www.youtube.com/watch?v=uSjMUsELCBo",
+      "thumbnail": "https://i.ytimg.com/vi/uSjMUsELCBo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $120,000 CSI3* 1.50m  Palm Beach County Sports Commission Grand Prix",
+      "url": "https://www.youtube.com/watch?v=L9bYx_A7g1g",
+      "thumbnail": "https://i.ytimg.com/vi/L9bYx_A7g1g/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch the $32,000 Equine Tack &amp; Nutritionals CSI3* 1.45m Classic",
+      "url": "https://www.youtube.com/watch?v=VC97k1dbqZU",
+      "thumbnail": "https://i.ytimg.com/vi/VC97k1dbqZU/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-18",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch the $62,500 JTWG, Inc. CSI3* Grand Prix Qualifier",
+      "url": "https://www.youtube.com/watch?v=vZaC4CVJiOk",
+      "thumbnail": "https://i.ytimg.com/vi/vZaC4CVJiOk/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-17",
+      "source": "YouTube"
+    },
+    {
+      "title": "$1,000,000 Rolex US Equestrian Open CSI5* Grand Prix Recap",
+      "url": "https://www.youtube.com/watch?v=Bs-qwJ9wPEo",
+      "thumbnail": "https://i.ytimg.com/vi/Bs-qwJ9wPEo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-15",
+      "source": "YouTube"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Global Champions Tour",
+      "url": "https://www.gcglobalchampions.com/"
+    },
+    {
+      "name": "Longines Timing",
+      "url": "https://www.longinestiming.com/"
+    },
+    {
+      "name": "HippoData",
+      "url": "https://results.hippodata.de/"
+    },
+    {
+      "name": "HorseTelex Results",
+      "url": "https://horsetelexresults.com/"
+    },
+    {
+      "name": "ShowGroundsLive",
+      "url": "https://www.showgroundslive.com/"
+    },
+    {
+      "name": "FEI",
+      "url": "https://data.fei.org/"
+    },
+    {
+      "name": "USEF",
+      "url": "https://www.usef.org/"
+    },
+    {
+      "name": "Clip My Horse TV",
+      "url": "https://www.clipmyhorse.tv/"
+    },
+    {
+      "name": "YouTube (multi-channel)",
+      "url": "https://www.youtube.com/"
+    }
+  ],
+  "stats": {
+    "events": 11,
+    "results": 7,
+    "rankings": 20,
+    "riders": 20,
+    "videos": 20
+  }
+}
