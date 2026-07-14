@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T01:48:28.493742+00:00",
+  "updated": "2026-07-14T05:22:48.814494+00:00",
   "events": [
     {
       "id": "gc-303",
@@ -784,86 +784,6 @@
   ],
   "videos": [
     {
-      "title": "LGCT Monaco 2026 - Wrap Up",
-      "url": "https://www.youtube.com/watch?v=1K49bgbl2sc",
-      "thumbnail": "https://i.ytimg.com/vi/1K49bgbl2sc/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-09",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Monaco - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=SvFiX3_u8IM",
-      "thumbnail": "https://i.ytimg.com/vi/SvFiX3_u8IM/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-05",
-      "source": "YouTube"
-    },
-    {
-      "title": "Stephan de Freitas Barcha Reacts to First 5* LGCT GP Win \ud83c\udfc6 | Winner Interview",
-      "url": "https://www.youtube.com/watch?v=y8a3z3ZPcmk",
-      "thumbnail": "https://i.ytimg.com/vi/y8a3z3ZPcmk/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "Sports Highlights \ud83c\udfc6  Stephan de Freitas Barcha\u2019s Historic First 5* Victory | LGCT Grand Prix Monaco",
-      "url": "https://www.youtube.com/watch?v=l67Craipuj8",
-      "thumbnail": "https://i.ytimg.com/vi/l67Craipuj8/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\udfc6 0.20 Seconds Decided It! Barcha vs Bucci | Head-to-Head LGCT Grand Prix of Monaco \ud83c\uddf2\ud83c\udde8",
-      "url": "https://www.youtube.com/watch?v=-qQY2ZieSA8",
-      "thumbnail": "https://i.ytimg.com/vi/-qQY2ZieSA8/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "Stephan de Freitas Barcha Reacts to First 5* LGCT GP Win \ud83c\udfc6 | Winner Interview",
-      "url": "https://www.youtube.com/watch?v=sSC7zALNKf8",
-      "thumbnail": "https://i.ytimg.com/vi/sSC7zALNKf8/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "First 5* LGCT Grand Prix Win for Stephan de Freitas Barcha! \ud83c\udfc6 LGCT Monaco Grand Prix 2026",
-      "url": "https://www.youtube.com/watch?v=X86O9ywoqOU",
-      "thumbnail": "https://i.ytimg.com/vi/X86O9ywoqOU/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "Pieter Devos Takes Monaco Victory with Jarina J \ud83c\udfc6 | CSI5* 1.45m",
-      "url": "https://www.youtube.com/watch?v=y-7Yd3Sm0hs",
-      "thumbnail": "https://i.ytimg.com/vi/y-7Yd3Sm0hs/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "Pieter Devos Takes Monaco Victory with Jarina J \ud83c\udfc6 | CSI5* 1.45m",
-      "url": "https://www.youtube.com/watch?v=N7UW6XNKtvM",
-      "thumbnail": "https://i.ytimg.com/vi/N7UW6XNKtvM/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "Kaitlin Campbell &amp; Cosm Hesed Win in Monaco \ud83c\udfc6 | CSI2* 1.45m",
-      "url": "https://www.youtube.com/watch?v=vSPNlnknu-k",
-      "thumbnail": "https://i.ytimg.com/vi/vSPNlnknu-k/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Arthramid Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -987,6 +907,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 20
+    "videos": 10
   }
 }
