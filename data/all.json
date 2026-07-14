@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T13:15:46.625215+00:00",
+  "updated": "2026-07-14T16:09:33.526207+00:00",
   "events": [
     {
       "id": "gc-303",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "\ud83d\udca5 LIVE: LGCT Grand Prix of Riesenbeck 2026 | 1.60m World Class Show Jumping",
+      "url": "https://www.youtube.com/watch?v=DIdH1y5h4b4",
+      "thumbnail": "https://i.ytimg.com/vi/DIdH1y5h4b4/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-14",
+      "source": "YouTube"
+    },
+    {
       "title": "LGCT Monaco 2026 - Wrap Up",
       "url": "https://www.youtube.com/watch?v=1K49bgbl2sc",
       "thumbnail": "https://i.ytimg.com/vi/1K49bgbl2sc/hqdefault.jpg",
@@ -987,6 +995,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 20
+    "videos": 21
   }
 }
