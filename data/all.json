@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T18:52:29.374426+00:00",
+  "updated": "2026-07-18T21:42:37.291271+00:00",
   "events": [
     {
       "id": "gc-303",
@@ -864,14 +864,6 @@
       "source": "YouTube"
     },
     {
-      "title": "Pieter Devos Takes Monaco Victory with Jarina J \ud83c\udfc6 | CSI5* 1.45m",
-      "url": "https://www.youtube.com/watch?v=y-7Yd3Sm0hs",
-      "thumbnail": "https://i.ytimg.com/vi/y-7Yd3Sm0hs/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-04",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Arthramid Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -995,6 +987,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 21
+    "videos": 20
   }
 }
