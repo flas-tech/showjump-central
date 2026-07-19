@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T15:51:37.596106+00:00",
+  "updated": "2026-07-19T18:55:11.947996+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,22 @@
   ],
   "videos": [
     {
+      "title": "Sport Highlights LGCT Grand Prix Riesenbeck \ud83c\udfc6 Victor Bettendorf Claims Grand Prix Glory",
+      "url": "https://www.youtube.com/watch?v=QRGAi_g2OHQ",
+      "thumbnail": "https://i.ytimg.com/vi/QRGAi_g2OHQ/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83d\udca5 LGCT Grand Prix of Riesenbeck 2026 | 1.60m World Class Show Jumping",
+      "url": "https://www.youtube.com/watch?v=DIdH1y5h4b4",
+      "thumbnail": "https://i.ytimg.com/vi/DIdH1y5h4b4/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
       "title": "Victor Bettendorf &amp; Gibbs Un Prince Win the LGCT Grand Prix of Riesenbeck 2026! \ud83c\udfc6",
       "url": "https://www.youtube.com/watch?v=bqtlOZI8YXg",
       "thumbnail": "https://i.ytimg.com/vi/bqtlOZI8YXg/hqdefault.jpg",
@@ -845,14 +861,6 @@
       "thumbnail": "https://i.ytimg.com/vi/4BWmVkwa7s0/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-07-17",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83d\udca5 LGCT Grand Prix of Riesenbeck 2026 | 1.60m World Class Show Jumping",
-      "url": "https://www.youtube.com/watch?v=DIdH1y5h4b4",
-      "thumbnail": "https://i.ytimg.com/vi/DIdH1y5h4b4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-14",
       "source": "YouTube"
     },
     {
@@ -987,6 +995,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 20
+    "videos": 21
   }
 }
