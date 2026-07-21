@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T01:57:18.051600+00:00",
+  "updated": "2026-07-21T05:42:35.173310+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,94 +784,6 @@
   ],
   "videos": [
     {
-      "title": "HEAD TO HEAD: Victor Bettendorf vs Daniel Deusser | LGCT Riesenbeck 2026 \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=vl01xVObhSc",
-      "thumbnail": "https://i.ytimg.com/vi/vl01xVObhSc/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-20",
-      "source": "YouTube"
-    },
-    {
-      "title": "Sports Highlights LGCT Grand Prix Riesenbeck 2026! \ud83c\udfc6 Victor Bettendorf Claims Grand Prix Glory",
-      "url": "https://www.youtube.com/watch?v=QRGAi_g2OHQ",
-      "thumbnail": "https://i.ytimg.com/vi/QRGAi_g2OHQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83d\udca5 LGCT Grand Prix of Riesenbeck 2026 | 1.60m World Class Show Jumping",
-      "url": "https://www.youtube.com/watch?v=DIdH1y5h4b4",
-      "thumbnail": "https://i.ytimg.com/vi/DIdH1y5h4b4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Victor Bettendorf &amp; Gibbs Un Prince Win the LGCT Grand Prix of Riesenbeck 2026! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=bqtlOZI8YXg",
-      "thumbnail": "https://i.ytimg.com/vi/bqtlOZI8YXg/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Victor Bettendorf Reacts to His LGCT Grand Prix Victory in Riesenbeck! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=Y5DYR0xxunw",
-      "thumbnail": "https://i.ytimg.com/vi/Y5DYR0xxunw/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Victor Bettendorf &amp; Gibbs Un Prince Win the LGCT Grand Prix of Riesenbeck 2026! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=CU4lRGAKd5U",
-      "thumbnail": "https://i.ytimg.com/vi/CU4lRGAKd5U/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "FIRST CLEAR! \ud83d\udd25 Henrik von Eckermann &amp; Minute Man Deliver in the LGCT Grand Prix Riesenbeck!",
-      "url": "https://www.youtube.com/watch?v=lgiz2ovV9lc",
-      "thumbnail": "https://i.ytimg.com/vi/lgiz2ovV9lc/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Daniel Deusser Wins the CSI5 1.50m KASK Prize in Riesenbeck! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=kklJ0qHoYw8",
-      "thumbnail": "https://i.ytimg.com/vi/kklJ0qHoYw8/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Today\u2019s course for the LGCT GP of Riesenbeck \ud83c\udde9\ud83c\uddea LIVE today Watch for FREE on our YouTube channel\ud83d\udea8",
-      "url": "https://www.youtube.com/watch?v=kx_jecvsj2M",
-      "thumbnail": "https://i.ytimg.com/vi/kx_jecvsj2M/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Laura Kraut Wins CSI5 1.60m at LGCT Riesenbeck 2026! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=UX1t4xeqv7o",
-      "thumbnail": "https://i.ytimg.com/vi/UX1t4xeqv7o/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-18",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\udde9\ud83c\uddea\ud83e\udd47 Winning round - Rene Dittmer &amp; Corsica X - CSI5* Prize of Hengstation 1.45m",
-      "url": "https://www.youtube.com/watch?v=4BWmVkwa7s0",
-      "thumbnail": "https://i.ytimg.com/vi/4BWmVkwa7s0/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-17",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Arthramid Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -995,6 +907,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 21
+    "videos": 10
   }
 }
