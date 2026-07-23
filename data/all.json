@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T08:15:58.653282+00:00",
+  "updated": "2026-07-23T11:02:56.705998+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,22 @@
   ],
   "videos": [
     {
+      "title": "Your Moment in Monaco \ud83c\uddf2\ud83c\udde8 | On Tour Ep. 6 | LGCT 2026",
+      "url": "https://www.youtube.com/watch?v=DorluD-xBaI",
+      "thumbnail": "https://i.ytimg.com/vi/DorluD-xBaI/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-23",
+      "source": "YouTube"
+    },
+    {
+      "title": "Time is Frozen in France \ud83c\uddeb\ud83c\uddf7 | On Tour Ep. 5 | LGCT 2026",
+      "url": "https://www.youtube.com/watch?v=TLjaVRGQNEg",
+      "thumbnail": "https://i.ytimg.com/vi/TLjaVRGQNEg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-23",
+      "source": "YouTube"
+    },
+    {
       "title": "LGCT Riesenbeck 2026 - Wrap Up ",
       "url": "https://www.youtube.com/watch?v=UnFfLcp15DQ",
       "thumbnail": "https://i.ytimg.com/vi/UnFfLcp15DQ/hqdefault.jpg",
@@ -869,14 +885,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UX1t4xeqv7o/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-07-18",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\udde9\ud83c\uddea\ud83e\udd47 Winning round - Rene Dittmer &amp; Corsica X - CSI5* Prize of Hengstation 1.45m",
-      "url": "https://www.youtube.com/watch?v=4BWmVkwa7s0",
-      "thumbnail": "https://i.ytimg.com/vi/4BWmVkwa7s0/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-17",
       "source": "YouTube"
     },
     {
@@ -1003,6 +1011,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 22
+    "videos": 23
   }
 }
