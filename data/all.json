@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T21:59:41.540906+00:00",
+  "updated": "2026-07-23T02:04:01.646682+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -878,6 +878,86 @@
       "channel": "Global Champions Tour",
       "published": "2026-07-17",
       "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Arthramid Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
+      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "WEF 2027 Teaser",
+      "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
+      "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Arthramid Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oDCghbdOITM",
+      "thumbnail": "https://i.ytimg.com/vi/oDCghbdOITM/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-07",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 LeMieux Grand Prix",
+      "url": "https://www.youtube.com/watch?v=EVHstM2e19I",
+      "thumbnail": "https://i.ytimg.com/vi/EVHstM2e19I/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-01",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 IDA Development Regional Grand Prix",
+      "url": "https://www.youtube.com/watch?v=Q3dXYvCQcgk",
+      "thumbnail": "https://i.ytimg.com/vi/Q3dXYvCQcgk/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-05-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Mark Bluman &amp; S &amp; L Hello Sunshine | $120,000 Palm Beach County Sports Commission CSI3* Grand Prix",
+      "url": "https://www.youtube.com/watch?v=uSjMUsELCBo",
+      "thumbnail": "https://i.ytimg.com/vi/uSjMUsELCBo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $120,000 CSI3* 1.50m  Palm Beach County Sports Commission Grand Prix",
+      "url": "https://www.youtube.com/watch?v=L9bYx_A7g1g",
+      "thumbnail": "https://i.ytimg.com/vi/L9bYx_A7g1g/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch the $32,000 Equine Tack &amp; Nutritionals CSI3* 1.45m Classic",
+      "url": "https://www.youtube.com/watch?v=VC97k1dbqZU",
+      "thumbnail": "https://i.ytimg.com/vi/VC97k1dbqZU/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-18",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch the $62,500 JTWG, Inc. CSI3* Grand Prix Qualifier",
+      "url": "https://www.youtube.com/watch?v=vZaC4CVJiOk",
+      "thumbnail": "https://i.ytimg.com/vi/vZaC4CVJiOk/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-17",
+      "source": "YouTube"
+    },
+    {
+      "title": "$1,000,000 Rolex US Equestrian Open CSI5* Grand Prix Recap",
+      "url": "https://www.youtube.com/watch?v=Bs-qwJ9wPEo",
+      "thumbnail": "https://i.ytimg.com/vi/Bs-qwJ9wPEo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-15",
+      "source": "YouTube"
     }
   ],
   "sources": [
@@ -923,6 +1003,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 12
+    "videos": 22
   }
 }
