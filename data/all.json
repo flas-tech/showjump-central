@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T16:16:51.466711+00:00",
+  "updated": "2026-07-29T19:01:46.548306+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -32,6 +32,21 @@
       "classes": []
     },
     {
+      "id": "gc-303",
+      "name": "LGCT of Riesenbeck",
+      "venue": "Riesenbeck",
+      "country": "",
+      "start": "2026-07-16",
+      "end": "2026-07-19",
+      "level": "CSI5*",
+      "circuit": "Longines Global Champions Tour",
+      "source": "Global Champions",
+      "source_url": "https://www.gcglobalchampions.com/",
+      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/08/15468-10%20RIESENBECK.jpg?v=1-0",
+      "status": "past",
+      "classes": []
+    },
+    {
       "id": "seed-2",
       "name": "CHIO Aachen \u2014 Rolex Grand Prix",
       "venue": "Aachen",
@@ -58,21 +73,6 @@
       "source": "Curated",
       "source_url": "https://www.gcglobalchampions.com/",
       "image": "",
-      "status": "past",
-      "classes": []
-    },
-    {
-      "id": "gc-301",
-      "name": "LGCT of Paris",
-      "venue": "Paris",
-      "country": "",
-      "start": "2026-06-19",
-      "end": "2026-06-21",
-      "level": "CSI5*",
-      "circuit": "Longines Global Champions Tour",
-      "source": "Global Champions",
-      "source_url": "https://www.gcglobalchampions.com/",
-      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/01/15471-8%20PARIS.jpg?v=1-0",
       "status": "past",
       "classes": []
     },
