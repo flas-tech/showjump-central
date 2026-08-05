@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T11:13:44.926112+00:00",
+  "updated": "2026-08-05T13:49:05.409808+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LIVE \u20ac1M LGCT Grand Prix of London 2026 | 9 August 2026 \ud83d\udc0e",
+      "url": "https://www.youtube.com/watch?v=ggGcGZE5CeY",
+      "thumbnail": "https://i.ytimg.com/vi/ggGcGZE5CeY/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-05",
+      "source": "YouTube"
+    },
+    {
       "title": "Your Moment in Monaco \ud83c\uddf2\ud83c\udde8 | On Tour Ep. 6 | LGCT 2026",
       "url": "https://www.youtube.com/watch?v=DorluD-xBaI",
       "thumbnail": "https://i.ytimg.com/vi/DorluD-xBaI/hqdefault.jpg",
@@ -877,14 +885,6 @@
       "thumbnail": "https://i.ytimg.com/vi/kx_jecvsj2M/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Laura Kraut Wins CSI5 1.60m at LGCT Riesenbeck 2026! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=UX1t4xeqv7o",
-      "thumbnail": "https://i.ytimg.com/vi/UX1t4xeqv7o/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-18",
       "source": "YouTube"
     },
     {
