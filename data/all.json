@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-06T13:46:19.339519+00:00",
+  "updated": "2026-08-06T23:52:20.839203+00:00",
   "events": [
+    {
+      "id": "gc-304",
+      "name": "LGCT of London",
+      "venue": "London",
+      "country": "",
+      "start": "2026-08-07",
+      "end": "2026-08-09",
+      "level": "CSI5*",
+      "circuit": "Longines Global Champions Tour",
+      "source": "Global Champions",
+      "source_url": "https://www.gcglobalchampions.com/",
+      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/03/15473-11%20LONDON.jpg?v=1-0",
+      "status": "upcoming",
+      "classes": []
+    },
     {
       "id": "seed-3",
       "name": "Dublin Horse Show \u2014 Aga Khan Nations Cup",
@@ -29,21 +44,6 @@
       "source_url": "https://www.sprucemeadows.com/",
       "image": "",
       "status": "upcoming",
-      "classes": []
-    },
-    {
-      "id": "gc-303",
-      "name": "LGCT of Riesenbeck",
-      "venue": "Riesenbeck",
-      "country": "",
-      "start": "2026-07-16",
-      "end": "2026-07-19",
-      "level": "CSI5*",
-      "circuit": "Longines Global Champions Tour",
-      "source": "Global Champions",
-      "source_url": "https://www.gcglobalchampions.com/",
-      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/08/15468-10%20RIESENBECK.jpg?v=1-0",
-      "status": "past",
       "classes": []
     },
     {
