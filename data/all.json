@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T06:37:59.762234+00:00",
+  "updated": "2026-08-08T09:29:44.739923+00:00",
   "events": [
     {
       "id": "gc-304",
@@ -782,7 +782,192 @@
       "world_points": 2645
     }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "title": "LIVE \u20ac1M LGCT Grand Prix of London 2026 | 9 August 2026 \ud83d\udc0e",
+      "url": "https://www.youtube.com/watch?v=ggGcGZE5CeY",
+      "thumbnail": "https://i.ytimg.com/vi/ggGcGZE5CeY/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-05",
+      "source": "YouTube"
+    },
+    {
+      "title": "Your Moment in Monaco \ud83c\uddf2\ud83c\udde8 | On Tour Ep. 6 | LGCT 2026",
+      "url": "https://www.youtube.com/watch?v=DorluD-xBaI",
+      "thumbnail": "https://i.ytimg.com/vi/DorluD-xBaI/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-23",
+      "source": "YouTube"
+    },
+    {
+      "title": "Time is Frozen in France \ud83c\uddeb\ud83c\uddf7 | On Tour Ep. 5 | LGCT 2026",
+      "url": "https://www.youtube.com/watch?v=TLjaVRGQNEg",
+      "thumbnail": "https://i.ytimg.com/vi/TLjaVRGQNEg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-23",
+      "source": "YouTube"
+    },
+    {
+      "title": "LGCT Riesenbeck 2026 - Wrap Up ",
+      "url": "https://www.youtube.com/watch?v=UnFfLcp15DQ",
+      "thumbnail": "https://i.ytimg.com/vi/UnFfLcp15DQ/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-22",
+      "source": "YouTube"
+    },
+    {
+      "title": "HEAD TO HEAD: Victor Bettendorf vs Daniel Deusser | LGCT Riesenbeck 2026 \ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=vl01xVObhSc",
+      "thumbnail": "https://i.ytimg.com/vi/vl01xVObhSc/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-20",
+      "source": "YouTube"
+    },
+    {
+      "title": "Sports Highlights LGCT Grand Prix Riesenbeck 2026! \ud83c\udfc6 Victor Bettendorf Claims Grand Prix Glory",
+      "url": "https://www.youtube.com/watch?v=QRGAi_g2OHQ",
+      "thumbnail": "https://i.ytimg.com/vi/QRGAi_g2OHQ/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83d\udca5 LGCT Grand Prix of Riesenbeck 2026 | 1.60m World Class Show Jumping",
+      "url": "https://www.youtube.com/watch?v=DIdH1y5h4b4",
+      "thumbnail": "https://i.ytimg.com/vi/DIdH1y5h4b4/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Victor Bettendorf &amp; Gibbs Un Prince Win the LGCT Grand Prix of Riesenbeck 2026! \ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=bqtlOZI8YXg",
+      "thumbnail": "https://i.ytimg.com/vi/bqtlOZI8YXg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Victor Bettendorf Reacts to His LGCT Grand Prix Victory in Riesenbeck! \ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=Y5DYR0xxunw",
+      "thumbnail": "https://i.ytimg.com/vi/Y5DYR0xxunw/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Victor Bettendorf &amp; Gibbs Un Prince Win the LGCT Grand Prix of Riesenbeck 2026! \ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=CU4lRGAKd5U",
+      "thumbnail": "https://i.ytimg.com/vi/CU4lRGAKd5U/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "FIRST CLEAR! \ud83d\udd25 Henrik von Eckermann &amp; Minute Man Deliver in the LGCT Grand Prix Riesenbeck!",
+      "url": "https://www.youtube.com/watch?v=lgiz2ovV9lc",
+      "thumbnail": "https://i.ytimg.com/vi/lgiz2ovV9lc/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Daniel Deusser Wins the CSI5 1.50m KASK Prize in Riesenbeck! \ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=kklJ0qHoYw8",
+      "thumbnail": "https://i.ytimg.com/vi/kklJ0qHoYw8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Today\u2019s course for the LGCT GP of Riesenbeck \ud83c\udde9\ud83c\uddea LIVE today Watch for FREE on our YouTube channel\ud83d\udea8",
+      "url": "https://www.youtube.com/watch?v=kx_jecvsj2M",
+      "thumbnail": "https://i.ytimg.com/vi/kx_jecvsj2M/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-07-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Arthramid Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
+      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "WEF 2027 Teaser",
+      "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
+      "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Arthramid Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oDCghbdOITM",
+      "thumbnail": "https://i.ytimg.com/vi/oDCghbdOITM/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-07",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 LeMieux Grand Prix",
+      "url": "https://www.youtube.com/watch?v=EVHstM2e19I",
+      "thumbnail": "https://i.ytimg.com/vi/EVHstM2e19I/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-01",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 IDA Development Regional Grand Prix",
+      "url": "https://www.youtube.com/watch?v=Q3dXYvCQcgk",
+      "thumbnail": "https://i.ytimg.com/vi/Q3dXYvCQcgk/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-05-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Mark Bluman &amp; S &amp; L Hello Sunshine | $120,000 Palm Beach County Sports Commission CSI3* Grand Prix",
+      "url": "https://www.youtube.com/watch?v=uSjMUsELCBo",
+      "thumbnail": "https://i.ytimg.com/vi/uSjMUsELCBo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $120,000 CSI3* 1.50m  Palm Beach County Sports Commission Grand Prix",
+      "url": "https://www.youtube.com/watch?v=L9bYx_A7g1g",
+      "thumbnail": "https://i.ytimg.com/vi/L9bYx_A7g1g/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch the $32,000 Equine Tack &amp; Nutritionals CSI3* 1.45m Classic",
+      "url": "https://www.youtube.com/watch?v=VC97k1dbqZU",
+      "thumbnail": "https://i.ytimg.com/vi/VC97k1dbqZU/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-18",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch the $62,500 JTWG, Inc. CSI3* Grand Prix Qualifier",
+      "url": "https://www.youtube.com/watch?v=vZaC4CVJiOk",
+      "thumbnail": "https://i.ytimg.com/vi/vZaC4CVJiOk/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-17",
+      "source": "YouTube"
+    },
+    {
+      "title": "$1,000,000 Rolex US Equestrian Open CSI5* Grand Prix Recap",
+      "url": "https://www.youtube.com/watch?v=Bs-qwJ9wPEo",
+      "thumbnail": "https://i.ytimg.com/vi/Bs-qwJ9wPEo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-15",
+      "source": "YouTube"
+    }
+  ],
   "sources": [
     {
       "name": "Global Champions Tour",
@@ -826,6 +1011,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 0
+    "videos": 23
   }
 }
