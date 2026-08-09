@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T15:23:18.456116+00:00",
+  "updated": "2026-08-09T18:28:27.812916+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,38 @@
   ],
   "videos": [
     {
+      "title": "LIVE \u20ac1M LGCT Grand Prix of London 2026 | 9 August 2026 \ud83d\udc0e",
+      "url": "https://www.youtube.com/watch?v=ggGcGZE5CeY",
+      "thumbnail": "https://i.ytimg.com/vi/ggGcGZE5CeY/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83d\udc40LGCT Grand Prix of London - Head to Head 2026 \ud83d\ude2e\u200d\ud83d\udca8",
+      "url": "https://www.youtube.com/watch?v=6k1HaL2zHlg",
+      "thumbnail": "https://i.ytimg.com/vi/6k1HaL2zHlg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83c\udfc6 Another WIN in the LGCT Grand Prix of London for Christian Kukuk &amp; Checker 47 \ud83e\udd2f\ud83d\udc4f\ud83c\udffc\ud83c\uddec\ud83c\udde7",
+      "url": "https://www.youtube.com/watch?v=GVWCpDfy0Ic",
+      "thumbnail": "https://i.ytimg.com/vi/GVWCpDfy0Ic/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83d\udea8WINNER of LGCT Grand Prix of London 2026 \ud83d\udea8\ud83c\uddec\ud83c\udde7",
+      "url": "https://www.youtube.com/watch?v=3ZxEvwn2Xko",
+      "thumbnail": "https://i.ytimg.com/vi/3ZxEvwn2Xko/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-09",
+      "source": "YouTube"
+    },
+    {
       "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Scott Brash &amp; Hello Jefferson - CSI5* 1.50m",
       "url": "https://www.youtube.com/watch?v=u7jOeAbdbnE",
       "thumbnail": "https://i.ytimg.com/vi/u7jOeAbdbnE/hqdefault.jpg",
@@ -805,14 +837,6 @@
       "thumbnail": "https://i.ytimg.com/vi/JwD-0yfa9Rw/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-08-08",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE \u20ac1M LGCT Grand Prix of London 2026 | 9 August 2026 \ud83d\udc0e",
-      "url": "https://www.youtube.com/watch?v=ggGcGZE5CeY",
-      "thumbnail": "https://i.ytimg.com/vi/ggGcGZE5CeY/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-08-05",
       "source": "YouTube"
     },
     {
@@ -851,38 +875,6 @@
       "title": "Sports Highlights LGCT Grand Prix Riesenbeck 2026! \ud83c\udfc6 Victor Bettendorf Claims Grand Prix Glory",
       "url": "https://www.youtube.com/watch?v=QRGAi_g2OHQ",
       "thumbnail": "https://i.ytimg.com/vi/QRGAi_g2OHQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83d\udca5 LGCT Grand Prix of Riesenbeck 2026 | 1.60m World Class Show Jumping",
-      "url": "https://www.youtube.com/watch?v=DIdH1y5h4b4",
-      "thumbnail": "https://i.ytimg.com/vi/DIdH1y5h4b4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Victor Bettendorf &amp; Gibbs Un Prince Win the LGCT Grand Prix of Riesenbeck 2026! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=bqtlOZI8YXg",
-      "thumbnail": "https://i.ytimg.com/vi/bqtlOZI8YXg/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Victor Bettendorf Reacts to His LGCT Grand Prix Victory in Riesenbeck! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=Y5DYR0xxunw",
-      "thumbnail": "https://i.ytimg.com/vi/Y5DYR0xxunw/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Victor Bettendorf &amp; Gibbs Un Prince Win the LGCT Grand Prix of Riesenbeck 2026! \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=CU4lRGAKd5U",
-      "thumbnail": "https://i.ytimg.com/vi/CU4lRGAKd5U/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-07-19",
       "source": "YouTube"
@@ -1011,6 +1003,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 23
+    "videos": 22
   }
 }
