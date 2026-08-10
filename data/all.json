@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T07:16:01.678142+00:00",
+  "updated": "2026-08-10T10:10:33.737315+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LGCT London Sports Highlights \ud83c\uddec\ud83c\udde7 | World-Class Show Jumping Action",
+      "url": "https://www.youtube.com/watch?v=LFMhT2Bg-os",
+      "thumbnail": "https://i.ytimg.com/vi/LFMhT2Bg-os/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-10",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE \u20ac1M LGCT Grand Prix of London 2026 | 9 August 2026 \ud83d\udc0e",
       "url": "https://www.youtube.com/watch?v=ggGcGZE5CeY",
       "thumbnail": "https://i.ytimg.com/vi/ggGcGZE5CeY/hqdefault.jpg",
@@ -808,7 +816,7 @@
       "source": "YouTube"
     },
     {
-      "title": "\ud83d\udea8WINNER of LGCT Grand Prix of London 2026 \ud83d\udea8\ud83c\uddec\ud83c\udde7",
+      "title": "The London GP Winner Reacts \ud83c\udfc6 | LGCT 2026 Interview",
       "url": "https://www.youtube.com/watch?v=3ZxEvwn2Xko",
       "thumbnail": "https://i.ytimg.com/vi/3ZxEvwn2Xko/hqdefault.jpg",
       "channel": "Global Champions Tour",
@@ -869,14 +877,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vl01xVObhSc/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-07-20",
-      "source": "YouTube"
-    },
-    {
-      "title": "Sports Highlights LGCT Grand Prix Riesenbeck 2026! \ud83c\udfc6 Victor Bettendorf Claims Grand Prix Glory",
-      "url": "https://www.youtube.com/watch?v=QRGAi_g2OHQ",
-      "thumbnail": "https://i.ytimg.com/vi/QRGAi_g2OHQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-19",
       "source": "YouTube"
     },
     {
