@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:12:43.911371+00:00",
+  "updated": "2026-08-12T09:54:31.680375+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -872,14 +872,6 @@
       "source": "YouTube"
     },
     {
-      "title": "HEAD TO HEAD: Victor Bettendorf vs Daniel Deusser | LGCT Riesenbeck 2026 \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=vl01xVObhSc",
-      "thumbnail": "https://i.ytimg.com/vi/vl01xVObhSc/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-20",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Arthramid Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -1003,6 +995,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 22
+    "videos": 21
   }
 }
