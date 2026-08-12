@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:51:32.961284+00:00",
+  "updated": "2026-08-12T15:53:07.172864+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LGCT London 2026 - Wrap Up \ud83c\uddec\ud83c\udde7",
+      "url": "https://www.youtube.com/watch?v=p6FdK54_FNQ",
+      "thumbnail": "https://i.ytimg.com/vi/p6FdK54_FNQ/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-08-12",
+      "source": "YouTube"
+    },
+    {
       "title": "LGCT London Sports Highlights \ud83c\uddec\ud83c\udde7 | World-Class Show Jumping Action",
       "url": "https://www.youtube.com/watch?v=LFMhT2Bg-os",
       "thumbnail": "https://i.ytimg.com/vi/LFMhT2Bg-os/hqdefault.jpg",
@@ -861,14 +869,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TLjaVRGQNEg/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-07-23",
-      "source": "YouTube"
-    },
-    {
-      "title": "LGCT Riesenbeck 2026 - Wrap Up ",
-      "url": "https://www.youtube.com/watch?v=UnFfLcp15DQ",
-      "thumbnail": "https://i.ytimg.com/vi/UnFfLcp15DQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-22",
       "source": "YouTube"
     },
     {
