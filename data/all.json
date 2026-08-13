@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T12:52:29.955827+00:00",
+  "updated": "2026-08-13T15:52:16.563203+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -864,14 +864,6 @@
       "source": "YouTube"
     },
     {
-      "title": "Time is Frozen in France \ud83c\uddeb\ud83c\uddf7 | On Tour Ep. 5 | LGCT 2026",
-      "url": "https://www.youtube.com/watch?v=TLjaVRGQNEg",
-      "thumbnail": "https://i.ytimg.com/vi/TLjaVRGQNEg/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-07-23",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Arthramid Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -995,6 +987,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 21
+    "videos": 20
   }
 }
