@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T14:10:46.419529+00:00",
+  "updated": "2026-08-30T18:19:20.604715+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "$24,999 Palm Beach Equine Clinic Grand Prix",
+      "url": "https://www.youtube.com/watch?v=O5LZGgkvIoE",
+      "thumbnail": "https://i.ytimg.com/vi/O5LZGgkvIoE/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-08-30",
+      "source": "YouTube"
+    },
+    {
       "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -925,14 +933,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vZaC4CVJiOk/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-04-17",
-      "source": "YouTube"
-    },
-    {
-      "title": "$1,000,000 Rolex US Equestrian Open CSI5* Grand Prix Recap",
-      "url": "https://www.youtube.com/watch?v=Bs-qwJ9wPEo",
-      "thumbnail": "https://i.ytimg.com/vi/Bs-qwJ9wPEo/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-04-15",
       "source": "YouTube"
     }
   ],
