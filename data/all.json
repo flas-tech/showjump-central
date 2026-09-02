@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T13:07:31.630212+00:00",
+  "updated": "2026-09-02T18:17:39.415870+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,11 +784,11 @@
   ],
   "videos": [
     {
-      "title": "$24,999 Palm Beach Equine Clinic Grand Prix",
-      "url": "https://www.youtube.com/watch?v=O5LZGgkvIoE",
-      "thumbnail": "https://i.ytimg.com/vi/O5LZGgkvIoE/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-08-31",
+      "title": "Brothers in time \ud83c\udde9\ud83c\uddea | On Tour Ep. 7 | LGCT 2026",
+      "url": "https://www.youtube.com/watch?v=NhjiMf3jOKE",
+      "thumbnail": "https://i.ytimg.com/vi/NhjiMf3jOKE/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-02",
       "source": "YouTube"
     },
     {
@@ -864,14 +864,6 @@
       "source": "YouTube"
     },
     {
-      "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Sanne Thijssen &amp; Farah Z - CSI5* 1.45m presented by Dallamires Stables",
-      "url": "https://www.youtube.com/watch?v=JwD-0yfa9Rw",
-      "thumbnail": "https://i.ytimg.com/vi/JwD-0yfa9Rw/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-08-08",
-      "source": "YouTube"
-    },
-    {
       "title": "WEF 2027 Teaser",
       "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
       "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
@@ -933,6 +925,14 @@
       "thumbnail": "https://i.ytimg.com/vi/vZaC4CVJiOk/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-04-17",
+      "source": "YouTube"
+    },
+    {
+      "title": "$1,000,000 Rolex US Equestrian Open CSI5* Grand Prix Recap",
+      "url": "https://www.youtube.com/watch?v=Bs-qwJ9wPEo",
+      "thumbnail": "https://i.ytimg.com/vi/Bs-qwJ9wPEo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-15",
       "source": "YouTube"
     }
   ],
