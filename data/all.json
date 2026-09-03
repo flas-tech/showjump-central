@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T07:34:20.726530+00:00",
+  "updated": "2026-09-03T13:09:10.333663+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,7 +784,15 @@
   ],
   "videos": [
     {
-      "title": "Brothers in time \ud83c\udde9\ud83c\uddea | On Tour Ep. 7 | LGCT 2026",
+      "title": "Tea Time \ud83c\uddec\ud83c\udde7 | On Tour Ep. 7 | LGCT 2026",
+      "url": "https://www.youtube.com/watch?v=sBI26NWtrjE",
+      "thumbnail": "https://i.ytimg.com/vi/sBI26NWtrjE/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-03",
+      "source": "YouTube"
+    },
+    {
+      "title": "Family Time \ud83c\udde9\ud83c\uddea | On Tour Ep. 7 | LGCT 2026",
       "url": "https://www.youtube.com/watch?v=NhjiMf3jOKE",
       "thumbnail": "https://i.ytimg.com/vi/NhjiMf3jOKE/hqdefault.jpg",
       "channel": "Global Champions Tour",
@@ -851,14 +859,6 @@
       "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Scott Brash &amp; Hello Jefferson - CSI5* 1.50m",
       "url": "https://www.youtube.com/watch?v=u7jOeAbdbnE",
       "thumbnail": "https://i.ytimg.com/vi/u7jOeAbdbnE/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-08-08",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Piergiorgio Bucci &amp; Pallieter vd N.Ranch - CSI5* LGCT GP Qualifier 1.60m",
-      "url": "https://www.youtube.com/watch?v=EWpqMeVVDaE",
-      "thumbnail": "https://i.ytimg.com/vi/EWpqMeVVDaE/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-08-08",
       "source": "YouTube"
