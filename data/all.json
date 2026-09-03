@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:15:54.950734+00:00",
+  "updated": "2026-09-03T22:54:36.512804+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -17,6 +17,21 @@
       "classes": []
     },
     {
+      "id": "gc-305",
+      "name": "LGCT of Valkenswaard",
+      "venue": "Valkenswaard",
+      "country": "",
+      "start": "2026-09-04",
+      "end": "2026-09-06",
+      "level": "CSI5*",
+      "circuit": "Longines Global Champions Tour",
+      "source": "Global Champions",
+      "source_url": "https://www.gcglobalchampions.com/",
+      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/05/15475-12%20VALKENSWAARD.jpg?v=1-0",
+      "status": "upcoming",
+      "classes": []
+    },
+    {
       "id": "seed-5",
       "name": "Spruce Meadows Masters",
       "venue": "Calgary",
@@ -29,21 +44,6 @@
       "source_url": "https://www.sprucemeadows.com/",
       "image": "",
       "status": "upcoming",
-      "classes": []
-    },
-    {
-      "id": "gc-304",
-      "name": "LGCT of London",
-      "venue": "London",
-      "country": "",
-      "start": "2026-08-07",
-      "end": "2026-08-09",
-      "level": "CSI5*",
-      "circuit": "Longines Global Champions Tour",
-      "source": "Global Champions",
-      "source_url": "https://www.gcglobalchampions.com/",
-      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/03/15473-11%20LONDON.jpg?v=1-0",
-      "status": "past",
       "classes": []
     },
     {
