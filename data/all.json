@@ -1,21 +1,6 @@
 {
-  "updated": "2026-09-03T22:54:36.512804+00:00",
+  "updated": "2026-09-04T02:16:48.439759+00:00",
   "events": [
-    {
-      "id": "seed-3",
-      "name": "Dublin Horse Show \u2014 Aga Khan Nations Cup",
-      "venue": "Dublin",
-      "country": "IRL",
-      "start": "2026-08-08",
-      "end": "2026-08-08",
-      "level": "CSIO5*",
-      "circuit": "Longines League of Nations",
-      "source": "Curated",
-      "source_url": "https://www.dublinhorseshow.com/",
-      "image": "",
-      "status": "upcoming",
-      "classes": []
-    },
     {
       "id": "gc-305",
       "name": "LGCT of Valkenswaard",
@@ -28,6 +13,21 @@
       "source": "Global Champions",
       "source_url": "https://www.gcglobalchampions.com/",
       "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/05/15475-12%20VALKENSWAARD.jpg?v=1-0",
+      "status": "live",
+      "classes": []
+    },
+    {
+      "id": "seed-3",
+      "name": "Dublin Horse Show \u2014 Aga Khan Nations Cup",
+      "venue": "Dublin",
+      "country": "IRL",
+      "start": "2026-08-08",
+      "end": "2026-08-08",
+      "level": "CSIO5*",
+      "circuit": "Longines League of Nations",
+      "source": "Curated",
+      "source_url": "https://www.dublinhorseshow.com/",
+      "image": "",
       "status": "upcoming",
       "classes": []
     },
