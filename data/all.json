@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T17:02:56.727646+00:00",
+  "updated": "2026-09-05T19:45:59.935330+00:00",
   "events": [
     {
       "id": "gc-305",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Eduardo Pereira De Menezes  &amp; H5 Messentus PS - CSI5* 1.50m",
+      "url": "https://www.youtube.com/watch?v=vSgFkyC03To",
+      "thumbnail": "https://i.ytimg.com/vi/vSgFkyC03To/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-05",
+      "source": "YouTube"
+    },
+    {
       "title": "Tea Time \ud83c\uddec\ud83c\udde7 | On Tour Ep. 7 | LGCT 2026",
       "url": "https://www.youtube.com/watch?v=sBI26NWtrjE",
       "thumbnail": "https://i.ytimg.com/vi/sBI26NWtrjE/hqdefault.jpg",
@@ -979,6 +987,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 19
+    "videos": 20
   }
 }
