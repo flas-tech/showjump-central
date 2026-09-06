@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T07:28:02.567875+00:00",
+  "updated": "2026-09-06T12:30:03.908907+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LIVE STUDIO - LGCT Grand Prix of Valkenswaard - Pre-Show",
+      "url": "https://www.youtube.com/watch?v=U79rDvqMvZI",
+      "thumbnail": "https://i.ytimg.com/vi/U79rDvqMvZI/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-06",
+      "source": "YouTube"
+    },
+    {
       "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Eduardo Pereira De Menezes  &amp; H5 Messentus PS - CSI5* 1.50m",
       "url": "https://www.youtube.com/watch?v=vSgFkyC03To",
       "thumbnail": "https://i.ytimg.com/vi/vSgFkyC03To/hqdefault.jpg",
@@ -861,14 +869,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3ZxEvwn2Xko/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-08-09",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Scott Brash &amp; Hello Jefferson - CSI5* 1.50m",
-      "url": "https://www.youtube.com/watch?v=u7jOeAbdbnE",
-      "thumbnail": "https://i.ytimg.com/vi/u7jOeAbdbnE/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-08-08",
       "source": "YouTube"
     },
     {
