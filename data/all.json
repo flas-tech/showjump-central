@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T22:36:27.586594+00:00",
+  "updated": "2026-09-07T02:10:27.568639+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LIVE STUDIO - LGCT Grand Prix of Valkenswaard - Pre-Show",
+      "url": "https://www.youtube.com/watch?v=U79rDvqMvZI",
+      "thumbnail": "https://i.ytimg.com/vi/U79rDvqMvZI/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-06",
+      "source": "YouTube"
+    },
+    {
       "title": "Won the LGCT Grand Prix, Lost the Champagne Shower \ud83d\ude1c\ud83e\udd42",
       "url": "https://www.youtube.com/watch?v=izrhJgSyz7M",
       "thumbnail": "https://i.ytimg.com/vi/izrhJgSyz7M/hqdefault.jpg",
@@ -843,14 +851,6 @@
       "title": "\ud83c\udfc6 First LGCT Grand Prix WIN in Valkenswaard for Yuri Mansur With Vitiki \ud83e\udd2f\ud83d\udc4f\ud83c\udffc\ud83c\udfc6\ud83c\uddf3\ud83c\uddf1",
       "url": "https://www.youtube.com/watch?v=A7b-M3-oy5I",
       "thumbnail": "https://i.ytimg.com/vi/A7b-M3-oy5I/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Valkenswaard - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=U79rDvqMvZI",
-      "thumbnail": "https://i.ytimg.com/vi/U79rDvqMvZI/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-09-06",
       "source": "YouTube"
