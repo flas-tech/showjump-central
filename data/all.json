@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T07:38:16.600440+00:00",
+  "updated": "2026-09-08T13:12:12.800807+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -864,14 +864,6 @@
       "source": "YouTube"
     },
     {
-      "title": "Tea Time \ud83c\uddec\ud83c\udde7 | On Tour Ep. 7 | LGCT 2026",
-      "url": "https://www.youtube.com/watch?v=sBI26NWtrjE",
-      "thumbnail": "https://i.ytimg.com/vi/sBI26NWtrjE/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-03",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -995,6 +987,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 21
+    "videos": 20
   }
 }
