@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T13:17:11.701580+00:00",
+  "updated": "2026-09-09T18:13:02.126425+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LGCT Valkenswaard 2026 - Wrap Up",
+      "url": "https://www.youtube.com/watch?v=X877kIVScBY",
+      "thumbnail": "https://i.ytimg.com/vi/X877kIVScBY/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-09",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE STUDIO - LGCT Grand Prix of Valkenswaard - Pre-Show",
       "url": "https://www.youtube.com/watch?v=U79rDvqMvZI",
       "thumbnail": "https://i.ytimg.com/vi/U79rDvqMvZI/hqdefault.jpg",
@@ -853,14 +861,6 @@
       "thumbnail": "https://i.ytimg.com/vi/A7b-M3-oy5I/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\uddec\ud83c\udde7\ud83e\udd47 Winning round - Eduardo Pereira De Menezes  &amp; H5 Messentus PS - CSI5* 1.50m",
-      "url": "https://www.youtube.com/watch?v=vSgFkyC03To",
-      "thumbnail": "https://i.ytimg.com/vi/vSgFkyC03To/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-05",
       "source": "YouTube"
     },
     {
