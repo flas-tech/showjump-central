@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T13:33:52.400467+00:00",
+  "updated": "2026-09-13T17:48:39.237349+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "Watch Live: $24,999 Haig Landscape Grand Prix",
+      "url": "https://www.youtube.com/watch?v=3ZYvlSl3RCs",
+      "thumbnail": "https://i.ytimg.com/vi/3ZYvlSl3RCs/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-09-13",
+      "source": "YouTube"
+    },
+    {
       "title": "LGCT Valkenswaard 2026 - Wrap Up",
       "url": "https://www.youtube.com/watch?v=X877kIVScBY",
       "thumbnail": "https://i.ytimg.com/vi/X877kIVScBY/hqdefault.jpg",
@@ -933,14 +941,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vZaC4CVJiOk/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-04-17",
-      "source": "YouTube"
-    },
-    {
-      "title": "$1,000,000 Rolex US Equestrian Open CSI5* Grand Prix Recap",
-      "url": "https://www.youtube.com/watch?v=Bs-qwJ9wPEo",
-      "thumbnail": "https://i.ytimg.com/vi/Bs-qwJ9wPEo/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-04-15",
       "source": "YouTube"
     }
   ],
