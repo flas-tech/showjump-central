@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T08:24:08.725792+00:00",
+  "updated": "2026-09-14T15:31:32.136405+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -848,30 +848,6 @@
       "source": "YouTube"
     },
     {
-      "title": "\ud83d\udd25 FIRST CLEAR \ud83d\udd25 LGCT Grand Prix of Valkenswaard \ud83c\uddf3\ud83c\uddf1",
-      "url": "https://www.youtube.com/watch?v=OUItcgyF6c8",
-      "thumbnail": "https://i.ytimg.com/vi/OUItcgyF6c8/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
-      "title": "SUPERMAN-SUR \ud83e\uddb8\ud83c\udffb\u200d\u2642\ufe0f What a Win in the LGCT Grand Prix of Valkenswaard for Yuri Mansur &amp; Vitiki \ud83c\udfc6\ud83c\uddf3\ud83c\uddf1",
-      "url": "https://www.youtube.com/watch?v=j-yADOKJAxA",
-      "thumbnail": "https://i.ytimg.com/vi/j-yADOKJAxA/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\udfc6 First LGCT Grand Prix WIN in Valkenswaard for Yuri Mansur With Vitiki \ud83e\udd2f\ud83d\udc4f\ud83c\udffc\ud83c\udfc6\ud83c\uddf3\ud83c\uddf1",
-      "url": "https://www.youtube.com/watch?v=A7b-M3-oy5I",
-      "thumbnail": "https://i.ytimg.com/vi/A7b-M3-oy5I/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -987,6 +963,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 20
+    "videos": 17
   }
 }
