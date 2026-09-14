@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T15:31:32.136405+00:00",
+  "updated": "2026-09-14T21:14:18.691379+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -840,14 +840,6 @@
       "source": "YouTube"
     },
     {
-      "title": "HEAD TO HEAD \ud83d\udc40 LGCT Grand Prix of Valkenswaard 2026 \ud83c\udfc6\ud83c\uddf3\ud83c\uddf1",
-      "url": "https://www.youtube.com/watch?v=hljstxQ0OwY",
-      "thumbnail": "https://i.ytimg.com/vi/hljstxQ0OwY/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -963,6 +955,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 17
+    "videos": 16
   }
 }
