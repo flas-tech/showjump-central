@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T17:49:39.386199+00:00",
+  "updated": "2026-09-20T20:04:35.113189+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "$24,999 IDA Development Grand Prix",
+      "url": "https://www.youtube.com/watch?v=blj1jn-iPgc",
+      "thumbnail": "https://i.ytimg.com/vi/blj1jn-iPgc/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-09-20",
+      "source": "YouTube"
+    },
+    {
       "title": "WHAT A SAVE \ud83e\udd2f #lgct #henrikvoneckerman",
       "url": "https://www.youtube.com/watch?v=N-xZG3kRV6s",
       "thumbnail": "https://i.ytimg.com/vi/N-xZG3kRV6s/hqdefault.jpg",
@@ -893,14 +901,6 @@
       "thumbnail": "https://i.ytimg.com/vi/L9bYx_A7g1g/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-04-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch the $32,000 Equine Tack &amp; Nutritionals CSI3* 1.45m Classic",
-      "url": "https://www.youtube.com/watch?v=VC97k1dbqZU",
-      "thumbnail": "https://i.ytimg.com/vi/VC97k1dbqZU/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-04-18",
       "source": "YouTube"
     }
   ],
