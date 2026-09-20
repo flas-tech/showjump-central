@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T08:09:13.564743+00:00",
+  "updated": "2026-09-20T13:22:41.279204+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -902,14 +902,6 @@
       "channel": "Wellington International",
       "published": "2026-04-18",
       "source": "YouTube"
-    },
-    {
-      "title": "Watch the $62,500 JTWG, Inc. CSI3* Grand Prix Qualifier",
-      "url": "https://www.youtube.com/watch?v=vZaC4CVJiOk",
-      "thumbnail": "https://i.ytimg.com/vi/vZaC4CVJiOk/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-04-17",
-      "source": "YouTube"
     }
   ],
   "sources": [
@@ -955,6 +947,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 16
+    "videos": 15
   }
 }
