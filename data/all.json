@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T08:06:55.242419+00:00",
+  "updated": "2026-09-22T13:48:25.167507+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -832,22 +832,6 @@
       "source": "YouTube"
     },
     {
-      "title": "LGCT Grand Prix of Valkenswaard Wrapped \ud83e\udd1d\ud83c\udffc \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=IcrVINWtAwY",
-      "thumbnail": "https://i.ytimg.com/vi/IcrVINWtAwY/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
-      "title": "Yuri Mansur's Wins LGCT Grand Prix of Valkenswaard With Heart Horse Vitiki \ud83d\udc34\u2764\ufe0f\ud83c\uddf3\ud83c\uddf1\ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=2KMWAimq7s0",
-      "thumbnail": "https://i.ytimg.com/vi/2KMWAimq7s0/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
-      "source": "YouTube"
-    },
-    {
       "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
       "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
@@ -947,6 +931,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 15
+    "videos": 13
   }
 }
