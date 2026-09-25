@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:24:19.935971+00:00",
+  "updated": "2026-09-25T14:20:34.593797+00:00",
   "events": [
     {
       "id": "gc-306",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "PingPong van de Lentemal and Denis Lynch Bringing Some Colour to Vienna \ud83c\udfa8",
+      "url": "https://www.youtube.com/watch?v=IW3XTEZe-AM",
+      "thumbnail": "https://i.ytimg.com/vi/IW3XTEZe-AM/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-25",
+      "source": "YouTube"
+    },
+    {
       "title": "Winning Round - Tom McDermott &amp; Shqely CSI5* 1.45m 2 Phases Powered by Pink &amp; Orange \ud83e\udd47\ud83d\udc34\u2728",
       "url": "https://www.youtube.com/watch?v=RTcoaYc3ZWk",
       "thumbnail": "https://i.ytimg.com/vi/RTcoaYc3ZWk/hqdefault.jpg",
@@ -821,14 +829,6 @@
       "thumbnail": "https://i.ytimg.com/vi/X877kIVScBY/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-09-09",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Valkenswaard - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=U79rDvqMvZI",
-      "thumbnail": "https://i.ytimg.com/vi/U79rDvqMvZI/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-06",
       "source": "YouTube"
     },
     {
