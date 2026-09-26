@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:32:12.203692+00:00",
+  "updated": "2026-09-26T18:12:24.752326+00:00",
   "events": [
     {
       "id": "gc-306",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "Katrin Eckermann &amp; Chao Lee Fly to the WIN in the CSI5* 1.50m powered by Kronen Zeitung \ud83e\udd47\ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=nlzznx1jt60",
+      "thumbnail": "https://i.ytimg.com/vi/nlzznx1jt60/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-26",
+      "source": "YouTube"
+    },
+    {
       "title": "PingPong van de Lentemal and Denis Lynch Bringing Some Colour to Vienna \ud83c\udfa8",
       "url": "https://www.youtube.com/watch?v=IW3XTEZe-AM",
       "thumbnail": "https://i.ytimg.com/vi/IW3XTEZe-AM/hqdefault.jpg",
@@ -821,14 +829,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3ZYvlSl3RCs/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-09-13",
-      "source": "YouTube"
-    },
-    {
-      "title": "LGCT Valkenswaard 2026 - Wrap Up",
-      "url": "https://www.youtube.com/watch?v=X877kIVScBY",
-      "thumbnail": "https://i.ytimg.com/vi/X877kIVScBY/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-09",
       "source": "YouTube"
     },
     {
