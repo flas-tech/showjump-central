@@ -1,21 +1,6 @@
 {
-  "updated": "2026-09-26T23:17:35.392637+00:00",
+  "updated": "2026-09-27T02:52:22.273969+00:00",
   "events": [
-    {
-      "id": "gc-306",
-      "name": "LGCT of Vienna",
-      "venue": "Vienna",
-      "country": "",
-      "start": "2026-09-24",
-      "end": "2026-09-27",
-      "level": "CSI5*",
-      "circuit": "Longines Global Champions Tour",
-      "source": "Global Champions",
-      "source_url": "https://www.gcglobalchampions.com/",
-      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/02/20262-02SG5562.jpg?v=1-0",
-      "status": "live",
-      "classes": []
-    },
     {
       "id": "seed-3",
       "name": "Dublin Horse Show \u2014 Aga Khan Nations Cup",
@@ -44,6 +29,21 @@
       "source_url": "https://www.sprucemeadows.com/",
       "image": "",
       "status": "upcoming",
+      "classes": []
+    },
+    {
+      "id": "gc-306",
+      "name": "LGCT of Vienna",
+      "venue": "Vienna",
+      "country": "",
+      "start": "2026-09-24",
+      "end": "2026-09-27",
+      "level": "CSI5*",
+      "circuit": "Longines Global Champions Tour",
+      "source": "Global Champions",
+      "source_url": "https://www.gcglobalchampions.com/",
+      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/02/20262-02SG5562.jpg?v=1-0",
+      "status": "past",
       "classes": []
     },
     {
@@ -782,112 +782,7 @@
       "world_points": 2645
     }
   ],
-  "videos": [
-    {
-      "title": "Katrin Eckermann &amp; Chao Lee Fly to the WIN in the CSI5* 1.50m powered by Kronen Zeitung \ud83e\udd47\ud83d\udd25",
-      "url": "https://www.youtube.com/watch?v=nlzznx1jt60",
-      "thumbnail": "https://i.ytimg.com/vi/nlzznx1jt60/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-26",
-      "source": "YouTube"
-    },
-    {
-      "title": "PingPong van de Lentemal and Denis Lynch Bringing Some Colour to Vienna \ud83c\udfa8",
-      "url": "https://www.youtube.com/watch?v=IW3XTEZe-AM",
-      "thumbnail": "https://i.ytimg.com/vi/IW3XTEZe-AM/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-25",
-      "source": "YouTube"
-    },
-    {
-      "title": "Winning Round - Tom McDermott &amp; Shqely CSI5* 1.45m 2 Phases Powered by Pink &amp; Orange \ud83e\udd47\ud83d\udc34\u2728",
-      "url": "https://www.youtube.com/watch?v=RTcoaYc3ZWk",
-      "thumbnail": "https://i.ytimg.com/vi/RTcoaYc3ZWk/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-24",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 IDA Development Grand Prix",
-      "url": "https://www.youtube.com/watch?v=blj1jn-iPgc",
-      "thumbnail": "https://i.ytimg.com/vi/blj1jn-iPgc/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-21",
-      "source": "YouTube"
-    },
-    {
-      "title": "WHAT A SAVE \ud83e\udd2f #lgct #henrikvoneckerman",
-      "url": "https://www.youtube.com/watch?v=N-xZG3kRV6s",
-      "thumbnail": "https://i.ytimg.com/vi/N-xZG3kRV6s/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-15",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Haig Landscape Grand Prix",
-      "url": "https://www.youtube.com/watch?v=3ZYvlSl3RCs",
-      "thumbnail": "https://i.ytimg.com/vi/3ZYvlSl3RCs/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-13",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
-      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
-      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-08-24",
-      "source": "YouTube"
-    },
-    {
-      "title": "WEF 2027 Teaser",
-      "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
-      "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-06-09",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Arthramid Grand Prix",
-      "url": "https://www.youtube.com/watch?v=oDCghbdOITM",
-      "thumbnail": "https://i.ytimg.com/vi/oDCghbdOITM/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-06-07",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 LeMieux Grand Prix",
-      "url": "https://www.youtube.com/watch?v=EVHstM2e19I",
-      "thumbnail": "https://i.ytimg.com/vi/EVHstM2e19I/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-06-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 IDA Development Regional Grand Prix",
-      "url": "https://www.youtube.com/watch?v=Q3dXYvCQcgk",
-      "thumbnail": "https://i.ytimg.com/vi/Q3dXYvCQcgk/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-05-10",
-      "source": "YouTube"
-    },
-    {
-      "title": "Mark Bluman &amp; S &amp; L Hello Sunshine | $120,000 Palm Beach County Sports Commission CSI3* Grand Prix",
-      "url": "https://www.youtube.com/watch?v=uSjMUsELCBo",
-      "thumbnail": "https://i.ytimg.com/vi/uSjMUsELCBo/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-04-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $120,000 CSI3* 1.50m  Palm Beach County Sports Commission Grand Prix",
-      "url": "https://www.youtube.com/watch?v=L9bYx_A7g1g",
-      "thumbnail": "https://i.ytimg.com/vi/L9bYx_A7g1g/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-04-19",
-      "source": "YouTube"
-    }
-  ],
+  "videos": [],
   "sources": [
     {
       "name": "Global Champions Tour",
@@ -931,6 +826,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 13
+    "videos": 0
   }
 }
