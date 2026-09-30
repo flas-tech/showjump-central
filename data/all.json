@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T03:18:36.798109+00:00",
+  "updated": "2026-09-30T11:41:05.290856+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -782,7 +782,136 @@
       "world_points": 2645
     }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "title": "LIVE STUDIO - LGCT Grand Prix of Vienna - Pre-Show",
+      "url": "https://www.youtube.com/watch?v=Jd4bMUxLJdw",
+      "thumbnail": "https://i.ytimg.com/vi/Jd4bMUxLJdw/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-28",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $15,000 ProElite Grand Prix",
+      "url": "https://www.youtube.com/watch?v=jxRy4K2YxxU",
+      "thumbnail": "https://i.ytimg.com/vi/jxRy4K2YxxU/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-09-28",
+      "source": "YouTube"
+    },
+    {
+      "title": "Sports Highlights LGCT Grand Prix Vienna 2026 \ud83c\udfc6 Sophie Hinners Claims the Throne \ud83d\udc51\ud83c\udde6\ud83c\uddf9",
+      "url": "https://www.youtube.com/watch?v=OeFDFy2RK_g",
+      "thumbnail": "https://i.ytimg.com/vi/OeFDFy2RK_g/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-27",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83d\udea8FIRST CLEAR ROUND LGCT GP VIENNA \ud83d\udea8\ud83d\udc40",
+      "url": "https://www.youtube.com/watch?v=syyF1q7MtpY",
+      "thumbnail": "https://i.ytimg.com/vi/syyF1q7MtpY/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-27",
+      "source": "YouTube"
+    },
+    {
+      "title": "Sophie Hinners &amp; Iron Dames Combella LGCT Grand Prix winners of Vienna\ud83d\udc34\ud83d\udc51\ud83d\udd25\ud83e\udd47",
+      "url": "https://www.youtube.com/watch?v=1pLiCMJ49Zs",
+      "thumbnail": "https://i.ytimg.com/vi/1pLiCMJ49Zs/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-27",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83d\udea8WINNER INTERVIEW LGCT GP VIENNA \ud83d\udea8\ud83e\udd47\u2728\ud83c\udff0",
+      "url": "https://www.youtube.com/watch?v=xjuaP7boPig",
+      "thumbnail": "https://i.ytimg.com/vi/xjuaP7boPig/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-27",
+      "source": "YouTube"
+    },
+    {
+      "title": "Katrin Eckermann &amp; Chao Lee Fly to the WIN in the CSI5* 1.50m powered by Kronen Zeitung \ud83e\udd47\ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=nlzznx1jt60",
+      "thumbnail": "https://i.ytimg.com/vi/nlzznx1jt60/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-26",
+      "source": "YouTube"
+    },
+    {
+      "title": "PingPong van de Lentemal and Denis Lynch Bringing Some Colour to Vienna \ud83c\udfa8",
+      "url": "https://www.youtube.com/watch?v=IW3XTEZe-AM",
+      "thumbnail": "https://i.ytimg.com/vi/IW3XTEZe-AM/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-25",
+      "source": "YouTube"
+    },
+    {
+      "title": "$24,999 IDA Development Grand Prix",
+      "url": "https://www.youtube.com/watch?v=blj1jn-iPgc",
+      "thumbnail": "https://i.ytimg.com/vi/blj1jn-iPgc/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-09-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Haig Landscape Grand Prix",
+      "url": "https://www.youtube.com/watch?v=3ZYvlSl3RCs",
+      "thumbnail": "https://i.ytimg.com/vi/3ZYvlSl3RCs/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-09-13",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
+      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-08-24",
+      "source": "YouTube"
+    },
+    {
+      "title": "WEF 2027 Teaser",
+      "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
+      "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-09",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 Arthramid Grand Prix",
+      "url": "https://www.youtube.com/watch?v=oDCghbdOITM",
+      "thumbnail": "https://i.ytimg.com/vi/oDCghbdOITM/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-07",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 LeMieux Grand Prix",
+      "url": "https://www.youtube.com/watch?v=EVHstM2e19I",
+      "thumbnail": "https://i.ytimg.com/vi/EVHstM2e19I/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-06-01",
+      "source": "YouTube"
+    },
+    {
+      "title": "Watch Live: $24,999 IDA Development Regional Grand Prix",
+      "url": "https://www.youtube.com/watch?v=Q3dXYvCQcgk",
+      "thumbnail": "https://i.ytimg.com/vi/Q3dXYvCQcgk/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-05-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Mark Bluman &amp; S &amp; L Hello Sunshine | $120,000 Palm Beach County Sports Commission CSI3* Grand Prix",
+      "url": "https://www.youtube.com/watch?v=uSjMUsELCBo",
+      "thumbnail": "https://i.ytimg.com/vi/uSjMUsELCBo/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-04-19",
+      "source": "YouTube"
+    }
+  ],
   "sources": [
     {
       "name": "Global Champions Tour",
@@ -826,6 +955,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 0
+    "videos": 16
   }
 }
