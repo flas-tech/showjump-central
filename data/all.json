@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:21:09.933390+00:00",
+  "updated": "2026-09-30T21:43:25.691335+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LGCT Vienna 2026 - Wrap Up",
+      "url": "https://www.youtube.com/watch?v=V5hQooeyGz8",
+      "thumbnail": "https://i.ytimg.com/vi/V5hQooeyGz8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-09-30",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE STUDIO - LGCT Grand Prix of Vienna - Pre-Show",
       "url": "https://www.youtube.com/watch?v=Jd4bMUxLJdw",
       "thumbnail": "https://i.ytimg.com/vi/Jd4bMUxLJdw/hqdefault.jpg",
@@ -837,14 +845,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nlzznx1jt60/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-09-26",
-      "source": "YouTube"
-    },
-    {
-      "title": "PingPong van de Lentemal and Denis Lynch Bringing Some Colour to Vienna \ud83c\udfa8",
-      "url": "https://www.youtube.com/watch?v=IW3XTEZe-AM",
-      "thumbnail": "https://i.ytimg.com/vi/IW3XTEZe-AM/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-25",
       "source": "YouTube"
     },
     {
