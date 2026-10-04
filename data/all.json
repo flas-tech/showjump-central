@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T11:36:08.450886+00:00",
+  "updated": "2026-10-04T16:14:35.861647+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
+      "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
+      "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-10-04",
+      "source": "YouTube"
+    },
+    {
       "title": "20th Anniversary Special \ud83c\uddf3\ud83c\uddf1 | On Tour Ep. 9 | LGCT 2026",
       "url": "https://www.youtube.com/watch?v=tRI_HCV8vSs",
       "thumbnail": "https://i.ytimg.com/vi/tRI_HCV8vSs/hqdefault.jpg",
@@ -893,14 +901,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EVHstM2e19I/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-06-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 IDA Development Regional Grand Prix",
-      "url": "https://www.youtube.com/watch?v=Q3dXYvCQcgk",
-      "thumbnail": "https://i.ytimg.com/vi/Q3dXYvCQcgk/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-05-10",
       "source": "YouTube"
     }
   ],
