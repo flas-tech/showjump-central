@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:11:36.149433+00:00",
+  "updated": "2026-10-05T21:45:02.407494+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "Different is good, different gets you noticed \ud83d\ude42\u200d\u2194\ufe0f\u2728\ud83d\udc34 #LGCT",
+      "url": "https://www.youtube.com/watch?v=9-GcXe3CZaA",
+      "thumbnail": "https://i.ytimg.com/vi/9-GcXe3CZaA/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-05",
+      "source": "YouTube"
+    },
+    {
       "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
       "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
       "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
@@ -947,6 +955,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 15
+    "videos": 16
   }
 }
