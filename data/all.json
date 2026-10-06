@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:31:38.356382+00:00",
+  "updated": "2026-10-06T19:55:42.428867+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "Sophie\u2019s winning plan \ud83e\udd47#LGCTVienna",
+      "url": "https://www.youtube.com/watch?v=_vaQO9s1Mo8",
+      "thumbnail": "https://i.ytimg.com/vi/_vaQO9s1Mo8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-06",
+      "source": "YouTube"
+    },
+    {
       "title": "Different is good, different gets you noticed \ud83d\ude42\u200d\u2194\ufe0f\u2728\ud83d\udc34 #LGCT",
       "url": "https://www.youtube.com/watch?v=9-GcXe3CZaA",
       "thumbnail": "https://i.ytimg.com/vi/9-GcXe3CZaA/hqdefault.jpg",
@@ -955,6 +963,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 16
+    "videos": 17
   }
 }
