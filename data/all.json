@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:40:33.553821+00:00",
+  "updated": "2026-10-10T16:42:23.375643+00:00",
   "events": [
     {
       "id": "gc-307",
@@ -784,6 +784,46 @@
   ],
   "videos": [
     {
+      "title": "It\u2019s a good day in the office \ud83d\ude0d\ud83e\udd1d\ud83d\udc34\ud83c\udfdb\ufe0f #lgct #longinesglobalchampionstour #horse #equestrian",
+      "url": "https://www.youtube.com/watch?v=PBuLKe4EcWI",
+      "thumbnail": "https://i.ytimg.com/vi/PBuLKe4EcWI/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Flying through Roman time \ud83d\udd25\ud83d\udc34 #lgct #longinesglobalchampionstour #horse #equestrian #sports",
+      "url": "https://www.youtube.com/watch?v=DgKevq8zpAE",
+      "thumbnail": "https://i.ytimg.com/vi/DgKevq8zpAE/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Which one are you choosing?! \ud83d\udd25\ud83d\ude0f #horse #lgct #longinesglobalchampionstour #equestrian #sports",
+      "url": "https://www.youtube.com/watch?v=O9VNRSL3EJ8",
+      "thumbnail": "https://i.ytimg.com/vi/O9VNRSL3EJ8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Somewhere over Rome \ud83d\ude0d\u2728\ud83c\uddee\ud83c\uddf9 #lgct #horse #equestrian #longinesglobalchampionstour #sports",
+      "url": "https://www.youtube.com/watch?v=u3aCCz1bAfo",
+      "thumbnail": "https://i.ytimg.com/vi/u3aCCz1bAfo/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-10",
+      "source": "YouTube"
+    },
+    {
+      "title": "Simon Delestre &amp; Crazy Daily 13 with an insane finish \ud83d\udd25\ud83d\udc4f\ud83c\udffc CSI5* 1.50m presented by Ares Atelier \ud83e\udd47",
+      "url": "https://www.youtube.com/watch?v=x0X9KvjWJts",
+      "thumbnail": "https://i.ytimg.com/vi/x0X9KvjWJts/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-10",
+      "source": "YouTube"
+    },
+    {
       "title": "Sophie\u2019s winning plan \ud83e\udd47#LGCTVienna",
       "url": "https://www.youtube.com/watch?v=_vaQO9s1Mo8",
       "thumbnail": "https://i.ytimg.com/vi/_vaQO9s1Mo8/hqdefault.jpg",
@@ -843,30 +883,6 @@
       "title": "Sports Highlights LGCT Grand Prix Vienna 2026 \ud83c\udfc6 Sophie Hinners Claims the Throne \ud83d\udc51\ud83c\udde6\ud83c\uddf9",
       "url": "https://www.youtube.com/watch?v=OeFDFy2RK_g",
       "thumbnail": "https://i.ytimg.com/vi/OeFDFy2RK_g/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-27",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83d\udea8FIRST CLEAR ROUND LGCT GP VIENNA \ud83d\udea8\ud83d\udc40",
-      "url": "https://www.youtube.com/watch?v=syyF1q7MtpY",
-      "thumbnail": "https://i.ytimg.com/vi/syyF1q7MtpY/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-27",
-      "source": "YouTube"
-    },
-    {
-      "title": "Sophie Hinners &amp; Iron Dames Combella LGCT Grand Prix winners of Vienna\ud83d\udc34\ud83d\udc51\ud83d\udd25\ud83e\udd47",
-      "url": "https://www.youtube.com/watch?v=1pLiCMJ49Zs",
-      "thumbnail": "https://i.ytimg.com/vi/1pLiCMJ49Zs/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-09-27",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83d\udea8WINNER INTERVIEW LGCT GP VIENNA \ud83d\udea8\ud83e\udd47\u2728\ud83c\udff0",
-      "url": "https://www.youtube.com/watch?v=xjuaP7boPig",
-      "thumbnail": "https://i.ytimg.com/vi/xjuaP7boPig/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-09-27",
       "source": "YouTube"
@@ -963,6 +979,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 17
+    "videos": 19
   }
 }
