@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T08:15:24.047712+00:00",
+  "updated": "2026-10-14T14:14:21.747884+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -856,14 +856,6 @@
       "source": "YouTube"
     },
     {
-      "title": "Flying through Roman time \ud83d\udd25\ud83d\udc34 #lgct #longinesglobalchampionstour #horse #equestrian #sports",
-      "url": "https://www.youtube.com/watch?v=DgKevq8zpAE",
-      "thumbnail": "https://i.ytimg.com/vi/DgKevq8zpAE/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-10",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
       "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
       "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
@@ -963,6 +955,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 17
+    "videos": 16
   }
 }
