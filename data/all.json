@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:52:55.068487+00:00",
+  "updated": "2026-10-15T13:49:26.819720+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,6 +784,14 @@
   ],
   "videos": [
     {
+      "title": "LGCT Rome 2026 - Wrap Up \ud83c\uddee\ud83c\uddf9",
+      "url": "https://www.youtube.com/watch?v=OmuXSSOXbgg",
+      "thumbnail": "https://i.ytimg.com/vi/OmuXSSOXbgg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-15",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE STUDIO - LGCT Grand Prix of Rome - Pre-Show",
       "url": "https://www.youtube.com/watch?v=gGWG3AOd0dc",
       "thumbnail": "https://i.ytimg.com/vi/gGWG3AOd0dc/hqdefault.jpg",
@@ -845,14 +853,6 @@
       "thumbnail": "https://i.ytimg.com/vi/lNN5l8Oyhoc/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
-      "title": "It\u2019s a good day in the office \ud83d\ude0d\ud83e\udd1d\ud83d\udc34\ud83c\udfdb\ufe0f #lgct #longinesglobalchampionstour #horse #equestrian",
-      "url": "https://www.youtube.com/watch?v=PBuLKe4EcWI",
-      "thumbnail": "https://i.ytimg.com/vi/PBuLKe4EcWI/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-10",
       "source": "YouTube"
     },
     {
