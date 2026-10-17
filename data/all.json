@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:55:31.892809+00:00",
+  "updated": "2026-10-17T22:47:48.422225+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -784,67 +784,11 @@
   ],
   "videos": [
     {
-      "title": "LGCT Rome 2026 - Wrap Up \ud83c\uddee\ud83c\uddf9",
-      "url": "https://www.youtube.com/watch?v=OmuXSSOXbgg",
-      "thumbnail": "https://i.ytimg.com/vi/OmuXSSOXbgg/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-15",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Rome - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=gGWG3AOd0dc",
-      "thumbnail": "https://i.ytimg.com/vi/gGWG3AOd0dc/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-12",
-      "source": "YouTube"
-    },
-    {
       "title": "$10,000 CCTV Grand Prix | Show Jumping | 2026 ESP Fall I",
       "url": "https://www.youtube.com/watch?v=4-2ATmsLBhU",
       "thumbnail": "https://i.ytimg.com/vi/4-2ATmsLBhU/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-10-12",
-      "source": "YouTube"
-    },
-    {
-      "title": "All Roads to Rome \ud83d\udd25 Action Packed LGCT Grand Prix of Rome \ud83c\udfc6\ud83e\udd47",
-      "url": "https://www.youtube.com/watch?v=-RRCrgb_REE",
-      "thumbnail": "https://i.ytimg.com/vi/-RRCrgb_REE/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
-      "title": "LGCT Grand Prix of Rome WINNING ROUND \ud83d\udd25\ud83d\udc4f\ud83c\udffc Abdel Sa\u00efd &amp; Wathnan Quaker Brimbelles Z \ud83e\udd2f",
-      "url": "https://www.youtube.com/watch?v=lxEwv4_bQcc",
-      "thumbnail": "https://i.ytimg.com/vi/lxEwv4_bQcc/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
-      "title": "&quot;Best Case Scenario&quot; for LGCT Championship Leader Abdel Sa\u00efd &amp; Wathnan Quaker Brimbelles Z in Rome \ud83e\udd47",
-      "url": "https://www.youtube.com/watch?v=E09AIVB_9vA",
-      "thumbnail": "https://i.ytimg.com/vi/E09AIVB_9vA/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83d\udd25 HEAD-TO-HEAD \ud83d\udd25 LGCT Grand Prix of Rome Down to the Wire \ud83d\ude2e\u200d\ud83d\udca8 \ud83c\udfc6\ud83d\udc4f\ud83c\udffc",
-      "url": "https://www.youtube.com/watch?v=BPGNTQLJDnw",
-      "thumbnail": "https://i.ytimg.com/vi/BPGNTQLJDnw/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83d\udea8 FIRST CLEAR \ud83d\udea8 in the LGCT Grand Prix of Rome - Pieter Devos &amp; Casual DV Z \u2728",
-      "url": "https://www.youtube.com/watch?v=TrXTfRM2K5Y",
-      "thumbnail": "https://i.ytimg.com/vi/TrXTfRM2K5Y/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
       "source": "YouTube"
     },
     {
@@ -955,6 +899,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 16
+    "videos": 9
   }
 }
