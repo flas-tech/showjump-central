@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T08:19:50.876412+00:00",
+  "updated": "2026-10-19T16:03:50.319823+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -785,6 +785,14 @@
   "videos": [
     {
       "title": "ESP Fall II Grand Prix | Show Jumping | 2026 ESP Fall I",
+      "url": "https://www.youtube.com/watch?v=l2dxSnUn9JQ",
+      "thumbnail": "https://i.ytimg.com/vi/l2dxSnUn9JQ/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-10-19",
+      "source": "YouTube"
+    },
+    {
+      "title": "ESP Fall II Grand Prix | Show Jumping | 2026 ESP Fall I",
       "url": "https://www.youtube.com/watch?v=lNN5l8Oyhoc",
       "thumbnail": "https://i.ytimg.com/vi/lNN5l8Oyhoc/hqdefault.jpg",
       "channel": "Wellington International",
@@ -848,14 +856,6 @@
       "source": "YouTube"
     },
     {
-      "title": "\ud83d\udea8 FIRST CLEAR \ud83d\udea8 in the LGCT Grand Prix of Rome - Pieter Devos &amp; Casual DV Z \u2728",
-      "url": "https://www.youtube.com/watch?v=TrXTfRM2K5Y",
-      "thumbnail": "https://i.ytimg.com/vi/TrXTfRM2K5Y/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
       "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
       "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
@@ -902,14 +902,6 @@
       "channel": "Wellington International",
       "published": "2026-06-09",
       "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Arthramid Grand Prix",
-      "url": "https://www.youtube.com/watch?v=oDCghbdOITM",
-      "thumbnail": "https://i.ytimg.com/vi/oDCghbdOITM/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-06-07",
-      "source": "YouTube"
     }
   ],
   "sources": [
@@ -955,6 +947,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 16
+    "videos": 15
   }
 }
