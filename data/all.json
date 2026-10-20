@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T08:04:18.343745+00:00",
+  "updated": "2026-10-20T14:00:00.214933+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -29,21 +29,6 @@
       "source_url": "https://www.sprucemeadows.com/",
       "image": "",
       "status": "upcoming",
-      "classes": []
-    },
-    {
-      "id": "gc-307",
-      "name": "LGCT of Rome",
-      "venue": "Rome",
-      "country": "",
-      "start": "2026-10-09",
-      "end": "2026-10-11",
-      "level": "CSI5*",
-      "circuit": "Longines Global Champions Tour",
-      "source": "Global Champions",
-      "source_url": "https://www.gcglobalchampions.com/",
-      "image": "https://www.gcglobalchampions.com/uploads/media/season-tile/08/21338-shutterstock_2714425815.jpg?v=1-0",
-      "status": "past",
       "classes": []
     },
     {
@@ -943,7 +928,7 @@
     }
   ],
   "stats": {
-    "events": 11,
+    "events": 10,
     "results": 7,
     "rankings": 20,
     "riders": 20,
