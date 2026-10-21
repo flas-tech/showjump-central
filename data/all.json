@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T08:09:35.265471+00:00",
+  "updated": "2026-10-21T14:15:50.625344+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -833,14 +833,6 @@
       "source": "YouTube"
     },
     {
-      "title": "\ud83d\udd25 HEAD-TO-HEAD \ud83d\udd25 LGCT Grand Prix of Rome Down to the Wire \ud83d\ude2e\u200d\ud83d\udca8 \ud83c\udfc6\ud83d\udc4f\ud83c\udffc",
-      "url": "https://www.youtube.com/watch?v=BPGNTQLJDnw",
-      "thumbnail": "https://i.ytimg.com/vi/BPGNTQLJDnw/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
       "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
       "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
@@ -932,6 +924,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 15
+    "videos": 14
   }
 }
