@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T19:03:10.129630+00:00",
+  "updated": "2026-10-21T23:50:34.547477+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,22 +769,6 @@
   ],
   "videos": [
     {
-      "title": "ESP Fall II Grand Prix | Show Jumping | 2026 ESP Fall I",
-      "url": "https://www.youtube.com/watch?v=l2dxSnUn9JQ",
-      "thumbnail": "https://i.ytimg.com/vi/l2dxSnUn9JQ/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "ESP Fall II Grand Prix | Show Jumping | 2026 ESP Fall I",
-      "url": "https://www.youtube.com/watch?v=lNN5l8Oyhoc",
-      "thumbnail": "https://i.ytimg.com/vi/lNN5l8Oyhoc/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-19",
-      "source": "YouTube"
-    },
-    {
       "title": "LGCT Rome 2026 - Wrap Up \ud83c\uddee\ud83c\uddf9",
       "url": "https://www.youtube.com/watch?v=OmuXSSOXbgg",
       "thumbnail": "https://i.ytimg.com/vi/OmuXSSOXbgg/hqdefault.jpg",
@@ -797,14 +781,6 @@
       "url": "https://www.youtube.com/watch?v=gGWG3AOd0dc",
       "thumbnail": "https://i.ytimg.com/vi/gGWG3AOd0dc/hqdefault.jpg",
       "channel": "Global Champions Tour",
-      "published": "2026-10-12",
-      "source": "YouTube"
-    },
-    {
-      "title": "$10,000 CCTV Grand Prix | Show Jumping | 2026 ESP Fall I",
-      "url": "https://www.youtube.com/watch?v=4-2ATmsLBhU",
-      "thumbnail": "https://i.ytimg.com/vi/4-2ATmsLBhU/hqdefault.jpg",
-      "channel": "Wellington International",
       "published": "2026-10-12",
       "source": "YouTube"
     },
@@ -830,54 +806,6 @@
       "thumbnail": "https://i.ytimg.com/vi/E09AIVB_9vA/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
-      "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
-      "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-05",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $15,000 ProElite Grand Prix",
-      "url": "https://www.youtube.com/watch?v=jxRy4K2YxxU",
-      "thumbnail": "https://i.ytimg.com/vi/jxRy4K2YxxU/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-28",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 IDA Development Grand Prix",
-      "url": "https://www.youtube.com/watch?v=blj1jn-iPgc",
-      "thumbnail": "https://i.ytimg.com/vi/blj1jn-iPgc/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-21",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Haig Landscape Grand Prix",
-      "url": "https://www.youtube.com/watch?v=3ZYvlSl3RCs",
-      "thumbnail": "https://i.ytimg.com/vi/3ZYvlSl3RCs/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-13",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
-      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
-      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-08-24",
-      "source": "YouTube"
-    },
-    {
-      "title": "WEF 2027 Teaser",
-      "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
-      "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-06-09",
       "source": "YouTube"
     }
   ],
@@ -924,6 +852,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 14
+    "videos": 5
   }
 }
