@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T08:10:32.338742+00:00",
+  "updated": "2026-10-22T14:15:28.905700+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -825,14 +825,6 @@
       "source": "YouTube"
     },
     {
-      "title": "&quot;Best Case Scenario&quot; for LGCT Championship Leader Abdel Sa\u00efd &amp; Wathnan Quaker Brimbelles Z in Rome \ud83e\udd47",
-      "url": "https://www.youtube.com/watch?v=E09AIVB_9vA",
-      "thumbnail": "https://i.ytimg.com/vi/E09AIVB_9vA/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
       "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
       "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
@@ -924,6 +916,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 14
+    "videos": 13
   }
 }
