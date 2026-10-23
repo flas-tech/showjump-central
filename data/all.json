@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T13:58:48.632478+00:00",
+  "updated": "2026-10-23T18:48:53.959033+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,22 @@
   ],
   "videos": [
     {
+      "title": "LGCT Cairo in full swing \ud83d\udc34\u2764\ufe0f\ud83c\uddea\ud83c\uddec",
+      "url": "https://www.youtube.com/watch?v=cYJwot25igQ",
+      "thumbnail": "https://i.ytimg.com/vi/cYJwot25igQ/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-23",
+      "source": "YouTube"
+    },
+    {
+      "title": "Home soil, Historic setting \ud83c\uddea\ud83c\uddec\ud83e\udef6\ud83c\udffc\ud83d\udc34\u2728 #horse #lgct #longinesglobalchampionstour #equestrian",
+      "url": "https://www.youtube.com/watch?v=XFknf2VasL4",
+      "thumbnail": "https://i.ytimg.com/vi/XFknf2VasL4/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-23",
+      "source": "YouTube"
+    },
+    {
       "title": "All winner full run from GCL Individual competition - GP Qualifier presented by QNB, Cairo, 2026 \ud83d\udd25\ud83c\uddea\ud83c\uddec",
       "url": "https://www.youtube.com/watch?v=ft4CELItWmk",
       "thumbnail": "https://i.ytimg.com/vi/ft4CELItWmk/hqdefault.jpg",
@@ -801,27 +817,11 @@
       "source": "YouTube"
     },
     {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Rome - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=gGWG3AOd0dc",
-      "thumbnail": "https://i.ytimg.com/vi/gGWG3AOd0dc/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-12",
-      "source": "YouTube"
-    },
-    {
       "title": "$10,000 CCTV Grand Prix | Show Jumping | 2026 ESP Fall I",
       "url": "https://www.youtube.com/watch?v=4-2ATmsLBhU",
       "thumbnail": "https://i.ytimg.com/vi/4-2ATmsLBhU/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-10-12",
-      "source": "YouTube"
-    },
-    {
-      "title": "All Roads to Rome \ud83d\udd25 Action Packed LGCT Grand Prix of Rome \ud83c\udfc6\ud83e\udd47",
-      "url": "https://www.youtube.com/watch?v=-RRCrgb_REE",
-      "thumbnail": "https://i.ytimg.com/vi/-RRCrgb_REE/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-11",
       "source": "YouTube"
     },
     {
