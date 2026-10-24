@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T07:47:12.502652+00:00",
+  "updated": "2026-10-24T13:01:22.736614+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "LIVE STUDIO - LGCT Grand Prix of Cairo - Pre-Show",
+      "url": "https://www.youtube.com/watch?v=rf6cxM00mFA",
+      "thumbnail": "https://i.ytimg.com/vi/rf6cxM00mFA/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-24",
+      "source": "YouTube"
+    },
+    {
       "title": "Winning round \ud83c\uddea\ud83c\uddec CSI5* 1.55m Against the Clock With Jump Off presented by AMEA Power, Cairo \ud83d\udc34\u2728",
       "url": "https://www.youtube.com/watch?v=0UtHzPAjT6Y",
       "thumbnail": "https://i.ytimg.com/vi/0UtHzPAjT6Y/hqdefault.jpg",
@@ -924,6 +932,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 14
+    "videos": 15
   }
 }
