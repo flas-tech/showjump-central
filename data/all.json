@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T13:01:22.736614+00:00",
+  "updated": "2026-10-24T17:44:45.936725+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,54 @@
   ],
   "videos": [
     {
+      "title": "Longines Global Champions Tour Grand Prix presented by Tatweer belongs to Casual DV Z &amp; Pieter Devos",
+      "url": "https://www.youtube.com/watch?v=SXmcsywF-88",
+      "thumbnail": "https://i.ytimg.com/vi/SXmcsywF-88/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-24",
+      "source": "YouTube"
+    },
+    {
+      "title": "Pieter Devos &amp; Casual DV, Longines Global Champions Tour Grand Prix of Cairo presented by Tatweer \ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=RmaTDjMGqwA",
+      "thumbnail": "https://i.ytimg.com/vi/RmaTDjMGqwA/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-24",
+      "source": "YouTube"
+    },
+    {
+      "title": "FIRST CLEAR ROUND LGCT GP CAIRO 2026 \ud83d\ude2e\u200d\ud83d\udca8\ud83c\uddea\ud83c\uddec",
+      "url": "https://www.youtube.com/watch?v=MX4VekKYWNk",
+      "thumbnail": "https://i.ytimg.com/vi/MX4VekKYWNk/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-24",
+      "source": "YouTube"
+    },
+    {
+      "title": "\ud83d\udea8 WINNER INTERVIEW LGCT GP CAIRO \ud83d\udea8",
+      "url": "https://www.youtube.com/watch?v=oY4DvN0W4wg",
+      "thumbnail": "https://i.ytimg.com/vi/oY4DvN0W4wg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-24",
+      "source": "YouTube"
+    },
+    {
+      "title": "WINNER INTERVIEW LGCT GP CAIRO 2026 \ud83c\uddea\ud83c\uddec\ud83c\udfc6\ud83d\udc34\u2728",
+      "url": "https://www.youtube.com/watch?v=7Nk7Kspv6Ms",
+      "thumbnail": "https://i.ytimg.com/vi/7Nk7Kspv6Ms/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-24",
+      "source": "YouTube"
+    },
+    {
+      "title": "Jump off loading \ud83d\udc40\ud83d\udea8\ud83c\udfc6\ud83c\uddea\ud83c\uddec",
+      "url": "https://www.youtube.com/watch?v=bEWoXleQEHU",
+      "thumbnail": "https://i.ytimg.com/vi/bEWoXleQEHU/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-24",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE STUDIO - LGCT Grand Prix of Cairo - Pre-Show",
       "url": "https://www.youtube.com/watch?v=rf6cxM00mFA",
       "thumbnail": "https://i.ytimg.com/vi/rf6cxM00mFA/hqdefault.jpg",
@@ -793,22 +841,6 @@
       "source": "YouTube"
     },
     {
-      "title": "Home soil, Historic setting \ud83c\uddea\ud83c\uddec\ud83e\udef6\ud83c\udffc\ud83d\udc34\u2728 #horse #lgct #longinesglobalchampionstour #equestrian",
-      "url": "https://www.youtube.com/watch?v=XFknf2VasL4",
-      "thumbnail": "https://i.ytimg.com/vi/XFknf2VasL4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-23",
-      "source": "YouTube"
-    },
-    {
-      "title": "All winner full run from GCL Individual competition - GP Qualifier presented by QNB, Cairo, 2026 \ud83d\udd25\ud83c\uddea\ud83c\uddec",
-      "url": "https://www.youtube.com/watch?v=ft4CELItWmk",
-      "thumbnail": "https://i.ytimg.com/vi/ft4CELItWmk/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-22",
-      "source": "YouTube"
-    },
-    {
       "title": "ESP Fall II Grand Prix | Show Jumping | 2026 ESP Fall I",
       "url": "https://www.youtube.com/watch?v=l2dxSnUn9JQ",
       "thumbnail": "https://i.ytimg.com/vi/l2dxSnUn9JQ/hqdefault.jpg",
@@ -822,14 +854,6 @@
       "thumbnail": "https://i.ytimg.com/vi/lNN5l8Oyhoc/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-10-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "LGCT Rome 2026 - Wrap Up \ud83c\uddee\ud83c\uddf9",
-      "url": "https://www.youtube.com/watch?v=OmuXSSOXbgg",
-      "thumbnail": "https://i.ytimg.com/vi/OmuXSSOXbgg/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-15",
       "source": "YouTube"
     },
     {
@@ -932,6 +956,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 15
+    "videos": 18
   }
 }
