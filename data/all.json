@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:20:10.951164+00:00",
+  "updated": "2026-10-26T15:40:46.498944+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "LGCT CAIRO SPORT HIGHLIGHTS",
+      "url": "https://www.youtube.com/watch?v=_St2hv_92i8",
+      "thumbnail": "https://i.ytimg.com/vi/_St2hv_92i8/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-10-26",
+      "source": "YouTube"
+    },
+    {
       "title": "$24,999 Perfect Products Grand Prix | ESP Fall III",
       "url": "https://www.youtube.com/watch?v=l2dxSnUn9JQ",
       "thumbnail": "https://i.ytimg.com/vi/l2dxSnUn9JQ/hqdefault.jpg",
@@ -956,6 +964,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 18
+    "videos": 19
   }
 }
