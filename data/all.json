@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:54:18.934320+00:00",
+  "updated": "2026-10-28T17:43:56.393311+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "$24,999 Perfect Products Grand Prix | ESP Fall III",
+      "url": "https://www.youtube.com/watch?v=4UembFsTlrM",
+      "thumbnail": "https://i.ytimg.com/vi/4UembFsTlrM/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-10-28",
+      "source": "YouTube"
+    },
+    {
       "title": "From Dreaming on the Sidelines to LGCT Champion: Abdel Sa\u00efd Secures the 2026 Title \ud83c\udfc6",
       "url": "https://www.youtube.com/watch?v=0Gs9vI1qokQ",
       "thumbnail": "https://i.ytimg.com/vi/0Gs9vI1qokQ/hqdefault.jpg",
@@ -972,6 +980,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 20
+    "videos": 21
   }
 }
