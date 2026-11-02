@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T10:22:20.383314+00:00",
+  "updated": "2026-11-02T21:12:28.484308+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "Head to Head: Zanotellii VS Lynch \ud83d\udd25 LGCT Grand Prix Rabat",
+      "url": "https://www.youtube.com/watch?v=O7MZOYTECjY",
+      "thumbnail": "https://i.ytimg.com/vi/O7MZOYTECjY/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-02",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE STUDIO - LGCT Grand Prix of Rabat - Pre-Show",
       "url": "https://www.youtube.com/watch?v=4nuGLuDAe0E",
       "thumbnail": "https://i.ytimg.com/vi/4nuGLuDAe0E/hqdefault.jpg",
@@ -785,7 +793,7 @@
       "source": "YouTube"
     },
     {
-      "title": "LGCT RABAT SPORTHIGHLIGHTS",
+      "title": "The Best of Rabat! \ud83d\udd25 | LGCT 2026 Sport Highlights",
       "url": "https://www.youtube.com/watch?v=wvI3GmmA_mU",
       "thumbnail": "https://i.ytimg.com/vi/wvI3GmmA_mU/hqdefault.jpg",
       "channel": "Global Champions Tour",
@@ -801,7 +809,7 @@
       "source": "YouTube"
     },
     {
-      "title": "FIRST CLEAR ROUND LGCT GP RABAT 2026 \ud83c\uddf2\ud83c\udde6\ud83d\ude2f",
+      "title": "From First Clear to Grand Prix Champion! \ud83c\udfc6 | Angelica Augustsson Zanotelli",
       "url": "https://www.youtube.com/watch?v=XY0Urxf0rPo",
       "thumbnail": "https://i.ytimg.com/vi/XY0Urxf0rPo/hqdefault.jpg",
       "channel": "Global Champions Tour",
@@ -817,7 +825,7 @@
       "source": "YouTube"
     },
     {
-      "title": "WINNER ROUND LGCT GP RABAT 2026 \ud83c\uddf2\ud83c\udde6\ud83d\udc34",
+      "title": "A Grand Prix Winning Performance! \ud83c\udfc6 | Angelica Augustsson Zanotelli | LGCT Rabat 2026",
       "url": "https://www.youtube.com/watch?v=k7j0DLT4FS4",
       "thumbnail": "https://i.ytimg.com/vi/k7j0DLT4FS4/hqdefault.jpg",
       "channel": "Global Champions Tour",
@@ -825,27 +833,11 @@
       "source": "YouTube"
     },
     {
-      "title": "WINNER INTERVIEW LGCT GP RABAT 2026 \ud83c\udfc6\ud83d\udd25",
+      "title": "\ud83c\udfc6 Hear From the WINNER! Angelica Augustsson Zanotelli | LGCT Rabat Grand Prix 2026",
       "url": "https://www.youtube.com/watch?v=wIK12dWjNGQ",
       "thumbnail": "https://i.ytimg.com/vi/wIK12dWjNGQ/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "Winners round - CSI5* 1.50m Against the Clock With Jump Off - Prix MINIST\u00c8RE DE LA JEUNESS ",
-      "url": "https://www.youtube.com/watch?v=2uC8-F5aKdg",
-      "thumbnail": "https://i.ytimg.com/vi/2uC8-F5aKdg/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-31",
-      "source": "YouTube"
-    },
-    {
-      "title": "Winning round - CSI2* 1.35m Against the clock No Jump off - Prix SOREC, Rabat ",
-      "url": "https://www.youtube.com/watch?v=z2gr_NLAYGs",
-      "thumbnail": "https://i.ytimg.com/vi/z2gr_NLAYGs/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-30",
       "source": "YouTube"
     },
     {
@@ -980,6 +972,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 21
+    "videos": 20
   }
 }
