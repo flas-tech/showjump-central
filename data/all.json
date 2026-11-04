@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T10:14:20.788865+00:00",
+  "updated": "2026-11-04T19:10:43.885700+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "Join us in Verona for the LGCT Super Grand Prix \ud83c\udfc6\ud83d\udd25\u2728",
+      "url": "https://www.youtube.com/watch?v=GYETr0wfdi4",
+      "thumbnail": "https://i.ytimg.com/vi/GYETr0wfdi4/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-04",
+      "source": "YouTube"
+    },
+    {
       "title": "Head to Head: Zanotellii VS Lynch \ud83d\udd25 LGCT Grand Prix Rabat",
       "url": "https://www.youtube.com/watch?v=O7MZOYTECjY",
       "thumbnail": "https://i.ytimg.com/vi/O7MZOYTECjY/hqdefault.jpg",
@@ -838,22 +846,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wIK12dWjNGQ/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "Winning round - Farid Amanzar &amp; Upper Class TT CSI2* 1.25m 2 Phases special - Prix ONSSA, Rabat ",
-      "url": "https://www.youtube.com/watch?v=mpP0DcExQDU",
-      "thumbnail": "https://i.ytimg.com/vi/mpP0DcExQDU/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-30",
-      "source": "YouTube"
-    },
-    {
-      "title": "From Dreaming on the Sidelines to LGCT Champion: Abdel Sa\u00efd Secures the 2026 Title \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=0Gs9vI1qokQ",
-      "thumbnail": "https://i.ytimg.com/vi/0Gs9vI1qokQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-27",
       "source": "YouTube"
     },
     {
@@ -972,6 +964,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 20
+    "videos": 19
   }
 }
