@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:43:20.504783+00:00",
+  "updated": "2026-11-04T00:58:54.274893+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,91 +769,11 @@
   ],
   "videos": [
     {
-      "title": "Head to Head: Zanotellii VS Lynch \ud83d\udd25 LGCT Grand Prix Rabat",
-      "url": "https://www.youtube.com/watch?v=O7MZOYTECjY",
-      "thumbnail": "https://i.ytimg.com/vi/O7MZOYTECjY/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Rabat - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=4nuGLuDAe0E",
-      "thumbnail": "https://i.ytimg.com/vi/4nuGLuDAe0E/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 ProElite Grand Prix | ESP Fall Finale",
       "url": "https://www.youtube.com/watch?v=4UembFsTlrM",
       "thumbnail": "https://i.ytimg.com/vi/4UembFsTlrM/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
-      "title": "The Best of Rabat! \ud83d\udd25 | LGCT 2026 Sport Highlights",
-      "url": "https://www.youtube.com/watch?v=wvI3GmmA_mU",
-      "thumbnail": "https://i.ytimg.com/vi/wvI3GmmA_mU/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "WINNER INTERVIEW LGCT GP RABAT 2026 \ud83d\udd25\ud83c\udfc6\u2764\ufe0f\ud83d\udc34",
-      "url": "https://www.youtube.com/watch?v=nX2rsIbTN8k",
-      "thumbnail": "https://i.ytimg.com/vi/nX2rsIbTN8k/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "From First Clear to Grand Prix Champion! \ud83c\udfc6 | Angelica Augustsson Zanotelli",
-      "url": "https://www.youtube.com/watch?v=XY0Urxf0rPo",
-      "thumbnail": "https://i.ytimg.com/vi/XY0Urxf0rPo/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "WINNER ROUND LGCT GP RABAT 2026 \ud83d\udd25\ud83c\uddf2\ud83c\udde6\ud83d\udc34",
-      "url": "https://www.youtube.com/watch?v=TU9nCSdV0PA",
-      "thumbnail": "https://i.ytimg.com/vi/TU9nCSdV0PA/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "A Grand Prix Winning Performance! \ud83c\udfc6 | Angelica Augustsson Zanotelli | LGCT Rabat 2026",
-      "url": "https://www.youtube.com/watch?v=k7j0DLT4FS4",
-      "thumbnail": "https://i.ytimg.com/vi/k7j0DLT4FS4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "\ud83c\udfc6 Hear From the WINNER! Angelica Augustsson Zanotelli | LGCT Rabat Grand Prix 2026",
-      "url": "https://www.youtube.com/watch?v=wIK12dWjNGQ",
-      "thumbnail": "https://i.ytimg.com/vi/wIK12dWjNGQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "Winning round - Farid Amanzar &amp; Upper Class TT CSI2* 1.25m 2 Phases special - Prix ONSSA, Rabat ",
-      "url": "https://www.youtube.com/watch?v=mpP0DcExQDU",
-      "thumbnail": "https://i.ytimg.com/vi/mpP0DcExQDU/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-30",
-      "source": "YouTube"
-    },
-    {
-      "title": "From Dreaming on the Sidelines to LGCT Champion: Abdel Sa\u00efd Secures the 2026 Title \ud83c\udfc6",
-      "url": "https://www.youtube.com/watch?v=0Gs9vI1qokQ",
-      "thumbnail": "https://i.ytimg.com/vi/0Gs9vI1qokQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-10-27",
       "source": "YouTube"
     },
     {
@@ -972,6 +892,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 20
+    "videos": 10
   }
 }
