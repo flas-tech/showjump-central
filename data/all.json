@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T10:07:44.239937+00:00",
+  "updated": "2026-11-05T19:17:17.243514+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,22 @@
   ],
   "videos": [
     {
+      "title": "What Is the LGCT Super Grand Prix? \ud83c\udfc6 | Everything You Need to Know ",
+      "url": "https://www.youtube.com/watch?v=BJtk283Cd9I",
+      "thumbnail": "https://i.ytimg.com/vi/BJtk283Cd9I/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-05",
+      "source": "YouTube"
+    },
+    {
+      "title": "LGCT Rabat Finals 2026 - Wrap Up",
+      "url": "https://www.youtube.com/watch?v=JXhU98op3F4",
+      "thumbnail": "https://i.ytimg.com/vi/JXhU98op3F4/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-05",
+      "source": "YouTube"
+    },
+    {
       "title": "Join us in Verona for the LGCT Super Grand Prix \ud83c\udfc6\ud83d\udd25\u2728",
       "url": "https://www.youtube.com/watch?v=GYETr0wfdi4",
       "thumbnail": "https://i.ytimg.com/vi/GYETr0wfdi4/hqdefault.jpg",
@@ -964,6 +980,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 19
+    "videos": 21
   }
 }
