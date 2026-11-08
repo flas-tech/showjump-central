@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T12:32:30.445563+00:00",
+  "updated": "2026-11-08T19:15:33.622334+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "$20,000 Palm Beach Equine Clinic Grand Prix | ESP November",
+      "url": "https://www.youtube.com/watch?v=vbzcnXcVVxU",
+      "thumbnail": "https://i.ytimg.com/vi/vbzcnXcVVxU/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-11-08",
+      "source": "YouTube"
+    },
+    {
       "title": "What Is the LGCT Super Grand Prix? \ud83c\udfc6 | Everything You Need to Know ",
       "url": "https://www.youtube.com/watch?v=BJtk283Cd9I",
       "thumbnail": "https://i.ytimg.com/vi/BJtk283Cd9I/hqdefault.jpg",
@@ -926,14 +934,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-08-24",
-      "source": "YouTube"
-    },
-    {
-      "title": "WEF 2027 Teaser",
-      "url": "https://www.youtube.com/watch?v=MLm9zDNJODA",
-      "thumbnail": "https://i.ytimg.com/vi/MLm9zDNJODA/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-06-09",
       "source": "YouTube"
     }
   ],
