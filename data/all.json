@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:07:48.583072+00:00",
+  "updated": "2026-11-11T03:59:11.901785+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -767,152 +767,7 @@
       "world_points": 2645
     }
   ],
-  "videos": [
-    {
-      "title": "$20,000 Palm Beach Equine Clinic Grand Prix | ESP November",
-      "url": "https://www.youtube.com/watch?v=vbzcnXcVVxU",
-      "thumbnail": "https://i.ytimg.com/vi/vbzcnXcVVxU/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-11-08",
-      "source": "YouTube"
-    },
-    {
-      "title": "What Is the LGCT Super Grand Prix? \ud83c\udfc6 | Everything You Need to Know ",
-      "url": "https://www.youtube.com/watch?v=BJtk283Cd9I",
-      "thumbnail": "https://i.ytimg.com/vi/BJtk283Cd9I/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-05",
-      "source": "YouTube"
-    },
-    {
-      "title": "LGCT Rabat Finals 2026 - Wrap Up",
-      "url": "https://www.youtube.com/watch?v=JXhU98op3F4",
-      "thumbnail": "https://i.ytimg.com/vi/JXhU98op3F4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-05",
-      "source": "YouTube"
-    },
-    {
-      "title": "Join us in Verona for the LGCT Super Grand Prix \ud83c\udfc6\ud83d\udd25\u2728",
-      "url": "https://www.youtube.com/watch?v=GYETr0wfdi4",
-      "thumbnail": "https://i.ytimg.com/vi/GYETr0wfdi4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-04",
-      "source": "YouTube"
-    },
-    {
-      "title": "Head to Head: Zanotellii VS Lynch \ud83d\udd25 LGCT Grand Prix Rabat",
-      "url": "https://www.youtube.com/watch?v=O7MZOYTECjY",
-      "thumbnail": "https://i.ytimg.com/vi/O7MZOYTECjY/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Rabat - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=4nuGLuDAe0E",
-      "thumbnail": "https://i.ytimg.com/vi/4nuGLuDAe0E/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 ProElite Grand Prix | ESP Fall Finale",
-      "url": "https://www.youtube.com/watch?v=4UembFsTlrM",
-      "thumbnail": "https://i.ytimg.com/vi/4UembFsTlrM/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
-      "title": "The Best of Rabat! \ud83d\udd25 | LGCT 2026 Sport Highlights",
-      "url": "https://www.youtube.com/watch?v=wvI3GmmA_mU",
-      "thumbnail": "https://i.ytimg.com/vi/wvI3GmmA_mU/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "WINNER INTERVIEW LGCT GP RABAT 2026 \ud83d\udd25\ud83c\udfc6\u2764\ufe0f\ud83d\udc34",
-      "url": "https://www.youtube.com/watch?v=nX2rsIbTN8k",
-      "thumbnail": "https://i.ytimg.com/vi/nX2rsIbTN8k/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "From First Clear to Grand Prix Champion! \ud83c\udfc6 | Angelica Augustsson Zanotelli",
-      "url": "https://www.youtube.com/watch?v=XY0Urxf0rPo",
-      "thumbnail": "https://i.ytimg.com/vi/XY0Urxf0rPo/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 Perfect Products Grand Prix | ESP Fall III",
-      "url": "https://www.youtube.com/watch?v=l2dxSnUn9JQ",
-      "thumbnail": "https://i.ytimg.com/vi/l2dxSnUn9JQ/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-26",
-      "source": "YouTube"
-    },
-    {
-      "title": "ESP Fall II Grand Prix | Show Jumping | 2026 ESP Fall I",
-      "url": "https://www.youtube.com/watch?v=lNN5l8Oyhoc",
-      "thumbnail": "https://i.ytimg.com/vi/lNN5l8Oyhoc/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-19",
-      "source": "YouTube"
-    },
-    {
-      "title": "$10,000 CCTV Grand Prix | Show Jumping | 2026 ESP Fall I",
-      "url": "https://www.youtube.com/watch?v=4-2ATmsLBhU",
-      "thumbnail": "https://i.ytimg.com/vi/4-2ATmsLBhU/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-12",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
-      "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
-      "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-05",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $15,000 ProElite Grand Prix",
-      "url": "https://www.youtube.com/watch?v=jxRy4K2YxxU",
-      "thumbnail": "https://i.ytimg.com/vi/jxRy4K2YxxU/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-28",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 IDA Development Grand Prix",
-      "url": "https://www.youtube.com/watch?v=blj1jn-iPgc",
-      "thumbnail": "https://i.ytimg.com/vi/blj1jn-iPgc/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-21",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Haig Landscape Grand Prix",
-      "url": "https://www.youtube.com/watch?v=3ZYvlSl3RCs",
-      "thumbnail": "https://i.ytimg.com/vi/3ZYvlSl3RCs/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-13",
-      "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
-      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
-      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-08-24",
-      "source": "YouTube"
-    }
-  ],
+  "videos": [],
   "sources": [
     {
       "name": "Global Champions Tour",
@@ -956,6 +811,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 18
+    "videos": 0
   }
 }
