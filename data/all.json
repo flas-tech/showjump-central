@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:19:17.699415+00:00",
+  "updated": "2026-11-11T21:40:45.520274+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "You heard it, the stars of show jumping are heading to Verona \ud83d\udcab",
+      "url": "https://www.youtube.com/watch?v=eJp8rSIk0Os",
+      "thumbnail": "https://i.ytimg.com/vi/eJp8rSIk0Os/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-11",
+      "source": "YouTube"
+    },
+    {
       "title": "$20,000 Palm Beach Equine Clinic Grand Prix | ESP November",
       "url": "https://www.youtube.com/watch?v=vbzcnXcVVxU",
       "thumbnail": "https://i.ytimg.com/vi/vbzcnXcVVxU/hqdefault.jpg",
@@ -828,22 +836,6 @@
       "title": "The Best of Rabat! \ud83d\udd25 | LGCT 2026 Sport Highlights",
       "url": "https://www.youtube.com/watch?v=wvI3GmmA_mU",
       "thumbnail": "https://i.ytimg.com/vi/wvI3GmmA_mU/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "WINNER INTERVIEW LGCT GP RABAT 2026 \ud83d\udd25\ud83c\udfc6\u2764\ufe0f\ud83d\udc34",
-      "url": "https://www.youtube.com/watch?v=nX2rsIbTN8k",
-      "thumbnail": "https://i.ytimg.com/vi/nX2rsIbTN8k/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
-      "source": "YouTube"
-    },
-    {
-      "title": "From First Clear to Grand Prix Champion! \ud83c\udfc6 | Angelica Augustsson Zanotelli",
-      "url": "https://www.youtube.com/watch?v=XY0Urxf0rPo",
-      "thumbnail": "https://i.ytimg.com/vi/XY0Urxf0rPo/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-11-01",
       "source": "YouTube"
@@ -956,6 +948,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 18
+    "videos": 17
   }
 }
