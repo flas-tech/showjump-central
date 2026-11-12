@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:09:50.404691+00:00",
+  "updated": "2026-11-12T14:23:30.787759+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,14 @@
   ],
   "videos": [
     {
+      "title": "A Letter Through Time \ud83c\udde6\ud83c\uddf9 | On Tour Ep. 10 | LGCT 2026",
+      "url": "https://www.youtube.com/watch?v=DlHGiPk-rdQ",
+      "thumbnail": "https://i.ytimg.com/vi/DlHGiPk-rdQ/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-12",
+      "source": "YouTube"
+    },
+    {
       "title": "You heard it, the stars of show jumping are heading to Verona \ud83d\udcab",
       "url": "https://www.youtube.com/watch?v=eJp8rSIk0Os",
       "thumbnail": "https://i.ytimg.com/vi/eJp8rSIk0Os/hqdefault.jpg",
@@ -817,27 +825,11 @@
       "source": "YouTube"
     },
     {
-      "title": "LIVE STUDIO - LGCT Grand Prix of Rabat - Pre-Show",
-      "url": "https://www.youtube.com/watch?v=4nuGLuDAe0E",
-      "thumbnail": "https://i.ytimg.com/vi/4nuGLuDAe0E/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 ProElite Grand Prix | ESP Fall Finale",
       "url": "https://www.youtube.com/watch?v=4UembFsTlrM",
       "thumbnail": "https://i.ytimg.com/vi/4UembFsTlrM/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-11-02",
-      "source": "YouTube"
-    },
-    {
-      "title": "The Best of Rabat! \ud83d\udd25 | LGCT 2026 Sport Highlights",
-      "url": "https://www.youtube.com/watch?v=wvI3GmmA_mU",
-      "thumbnail": "https://i.ytimg.com/vi/wvI3GmmA_mU/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-01",
       "source": "YouTube"
     },
     {
@@ -895,14 +887,6 @@
       "channel": "Wellington International",
       "published": "2026-09-13",
       "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $24,999 Flagler Insurance Grand Prix",
-      "url": "https://www.youtube.com/watch?v=oKCnIryv2ho",
-      "thumbnail": "https://i.ytimg.com/vi/oKCnIryv2ho/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-08-24",
-      "source": "YouTube"
     }
   ],
   "sources": [
@@ -948,6 +932,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 17
+    "videos": 15
   }
 }
