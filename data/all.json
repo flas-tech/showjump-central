@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T10:14:20.716408+00:00",
+  "updated": "2026-11-15T18:18:46.570513+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,22 @@
   ],
   "videos": [
     {
+      "title": "$24,999 Wingrove Academy Grand Prix | November 15th | ESP Pre-Charity",
+      "url": "https://www.youtube.com/watch?v=v7VKoucSXKM",
+      "thumbnail": "https://i.ytimg.com/vi/v7VKoucSXKM/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-11-15",
+      "source": "YouTube"
+    },
+    {
+      "title": "$120,000 Equine Tack &amp; Nutritionals CSI3* Grand Prix | November 15th | ESP Pre-Charity",
+      "url": "https://www.youtube.com/watch?v=ghze-T3EYsA",
+      "thumbnail": "https://i.ytimg.com/vi/ghze-T3EYsA/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-11-15",
+      "source": "YouTube"
+    },
+    {
       "title": "$32,000 Corro CSI3* 1.45m Speed | November 14th | ESP Pre-Charity",
       "url": "https://www.youtube.com/watch?v=13bvvpDPr7c",
       "thumbnail": "https://i.ytimg.com/vi/13bvvpDPr7c/hqdefault.jpg",
@@ -879,14 +895,6 @@
       "channel": "Wellington International",
       "published": "2026-09-28",
       "source": "YouTube"
-    },
-    {
-      "title": "$24,999 IDA Development Grand Prix",
-      "url": "https://www.youtube.com/watch?v=blj1jn-iPgc",
-      "thumbnail": "https://i.ytimg.com/vi/blj1jn-iPgc/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-21",
-      "source": "YouTube"
     }
   ],
   "sources": [
@@ -932,6 +940,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 15
+    "videos": 16
   }
 }
