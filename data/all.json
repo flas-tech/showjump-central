@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T10:55:56.397968+00:00",
+  "updated": "2026-11-18T19:47:56.473584+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -841,14 +841,6 @@
       "source": "YouTube"
     },
     {
-      "title": "LGCT Rabat Finals 2026 - Wrap Up",
-      "url": "https://www.youtube.com/watch?v=JXhU98op3F4",
-      "thumbnail": "https://i.ytimg.com/vi/JXhU98op3F4/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-05",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 ProElite Grand Prix | ESP Fall Finale",
       "url": "https://www.youtube.com/watch?v=4UembFsTlrM",
       "thumbnail": "https://i.ytimg.com/vi/4UembFsTlrM/hqdefault.jpg",
@@ -940,6 +932,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 16
+    "videos": 15
   }
 }
