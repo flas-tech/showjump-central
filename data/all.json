@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T10:58:24.777083+00:00",
+  "updated": "2026-11-19T19:48:31.288676+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -833,14 +833,6 @@
       "source": "YouTube"
     },
     {
-      "title": "What Is the LGCT Super Grand Prix? \ud83c\udfc6 | Everything You Need to Know ",
-      "url": "https://www.youtube.com/watch?v=BJtk283Cd9I",
-      "thumbnail": "https://i.ytimg.com/vi/BJtk283Cd9I/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-05",
-      "source": "YouTube"
-    },
-    {
       "title": "$24,999 ProElite Grand Prix | ESP Fall Finale",
       "url": "https://www.youtube.com/watch?v=4UembFsTlrM",
       "thumbnail": "https://i.ytimg.com/vi/4UembFsTlrM/hqdefault.jpg",
@@ -924,6 +916,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 14
+    "videos": 13
   }
 }
