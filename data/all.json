@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:47:56.473584+00:00",
+  "updated": "2026-11-19T02:09:32.907310+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -879,14 +879,6 @@
       "channel": "Wellington International",
       "published": "2026-10-05",
       "source": "YouTube"
-    },
-    {
-      "title": "Watch Live: $15,000 ProElite Grand Prix",
-      "url": "https://www.youtube.com/watch?v=jxRy4K2YxxU",
-      "thumbnail": "https://i.ytimg.com/vi/jxRy4K2YxxU/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-09-28",
-      "source": "YouTube"
     }
   ],
   "sources": [
@@ -932,6 +924,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 15
+    "videos": 14
   }
 }
