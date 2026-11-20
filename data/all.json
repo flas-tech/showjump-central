@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T01:58:02.031053+00:00",
+  "updated": "2026-11-20T10:46:50.402657+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -817,14 +817,6 @@
       "source": "YouTube"
     },
     {
-      "title": "You heard it, the stars of show jumping are heading to Verona \ud83d\udcab",
-      "url": "https://www.youtube.com/watch?v=eJp8rSIk0Os",
-      "thumbnail": "https://i.ytimg.com/vi/eJp8rSIk0Os/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-11",
-      "source": "YouTube"
-    },
-    {
       "title": "$20,000 Palm Beach Equine Clinic Grand Prix | ESP November",
       "url": "https://www.youtube.com/watch?v=vbzcnXcVVxU",
       "thumbnail": "https://i.ytimg.com/vi/vbzcnXcVVxU/hqdefault.jpg",
@@ -916,6 +908,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 13
+    "videos": 12
   }
 }
