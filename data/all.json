@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T10:29:52.020625+00:00",
+  "updated": "2026-11-21T18:31:14.902877+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,46 @@
   ],
   "videos": [
     {
+      "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R1",
+      "url": "https://www.youtube.com/watch?v=RtSUi4P0Kuw",
+      "thumbnail": "https://i.ytimg.com/vi/RtSUi4P0Kuw/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "WINNER INTERVIEW LGCT 1st Individual competition presented by Bellavista VERONA 2026 \ud83c\uddee\ud83c\uddf9\ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=bTOdzxgP6mE",
+      "thumbnail": "https://i.ytimg.com/vi/bTOdzxgP6mE/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "WINNER INTERVIEW LGCT 1st Individual competition presented by Bellavista VERONA 2026 \ud83c\uddee\ud83c\uddf9\ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=DgU5yviZdcI",
+      "thumbnail": "https://i.ytimg.com/vi/DgU5yviZdcI/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "WINNER ROUND LGCT 1st Individual competition presented by Bellavista  VERONA 2026",
+      "url": "https://www.youtube.com/watch?v=l_uv_xPrJHc",
+      "thumbnail": "https://i.ytimg.com/vi/l_uv_xPrJHc/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "All Full Run from CSI5* 1.50m Against the clock No Jump off - presented by Croceri Farm, Verona \ud83c\uddee\ud83c\uddf9",
+      "url": "https://www.youtube.com/watch?v=FuZFvi8FRCI",
+      "thumbnail": "https://i.ytimg.com/vi/FuZFvi8FRCI/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
       "title": "$24,999 Wingrove Academy Grand Prix | November 15th | ESP Pre-Charity",
       "url": "https://www.youtube.com/watch?v=v7VKoucSXKM",
       "thumbnail": "https://i.ytimg.com/vi/v7VKoucSXKM/hqdefault.jpg",
@@ -793,27 +833,11 @@
       "source": "YouTube"
     },
     {
-      "title": "Who is going clear at the LGCT SUPER GRAND PRIX?! \ud83d\udd25\u2728\ud83d\udc34",
-      "url": "https://www.youtube.com/watch?v=U9Lg7qpa884",
-      "thumbnail": "https://i.ytimg.com/vi/U9Lg7qpa884/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-13",
-      "source": "YouTube"
-    },
-    {
       "title": "$62,500 Arthramid by Contura Vet CSI3* Grand Prix Qualifier | November 13th | ESP Pre-Charity",
       "url": "https://www.youtube.com/watch?v=UNXh_80Oh6o",
       "thumbnail": "https://i.ytimg.com/vi/UNXh_80Oh6o/hqdefault.jpg",
       "channel": "Wellington International",
       "published": "2026-11-13",
-      "source": "YouTube"
-    },
-    {
-      "title": "A Letter Through Time \ud83c\udde6\ud83c\uddf9 | On Tour Ep. 10 | LGCT 2026",
-      "url": "https://www.youtube.com/watch?v=DlHGiPk-rdQ",
-      "thumbnail": "https://i.ytimg.com/vi/DlHGiPk-rdQ/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-12",
       "source": "YouTube"
     },
     {
@@ -908,6 +932,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 12
+    "videos": 15
   }
 }
