@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T18:31:14.902877+00:00",
+  "updated": "2026-11-22T00:49:45.752363+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,70 @@
   ],
   "videos": [
     {
+      "title": "LGCT SUPER GP VERONA SPORTHIGHLIGHTS",
+      "url": "https://www.youtube.com/watch?v=_JXJWOGUjD0",
+      "thumbnail": "https://i.ytimg.com/vi/_JXJWOGUjD0/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "GTA but make it a LGCT version \ud83d\ude0d\ud83e\udd2a",
+      "url": "https://www.youtube.com/watch?v=ilkDzCHPTTo",
+      "thumbnail": "https://i.ytimg.com/vi/ilkDzCHPTTo/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "LGCT SUPER GRAND PRIX NERVES \ud83d\udd25\ud83c\uddee\ud83c\uddf9\ud83d\udc34",
+      "url": "https://www.youtube.com/watch?v=x6NvRrk1A04",
+      "thumbnail": "https://i.ytimg.com/vi/x6NvRrk1A04/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "FIRST CLEAR ROUND LGCT SGP ROUND 2 VERONA 2026 \ud83d\udc40\ud83d\ude2e\u200d\ud83d\udca8",
+      "url": "https://www.youtube.com/watch?v=4eIJ8Nq_J84",
+      "thumbnail": "https://i.ytimg.com/vi/4eIJ8Nq_J84/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "WINNING ROUND LGCT SGP VERONA 2026 \ud83c\uddee\ud83c\uddf9\ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=UH0vSMb5Upg",
+      "thumbnail": "https://i.ytimg.com/vi/UH0vSMb5Upg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "WINNER INTERVIEW LGCT SGP VERONA 2026 \ud83c\uddee\ud83c\uddf9\ud83d\udc34\ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=S7uy0ES7nG0",
+      "thumbnail": "https://i.ytimg.com/vi/S7uy0ES7nG0/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "LGCT Super Grand Prix winning round, Verona 2026 \ud83c\uddee\ud83c\uddf9\ud83d\udd25\ud83c\udfc6",
+      "url": "https://www.youtube.com/watch?v=JEoYh_79ECk",
+      "thumbnail": "https://i.ytimg.com/vi/JEoYh_79ECk/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
+      "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R2",
+      "url": "https://www.youtube.com/watch?v=Bq5wvRDJvNg",
+      "thumbnail": "https://i.ytimg.com/vi/Bq5wvRDJvNg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-21",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R1",
       "url": "https://www.youtube.com/watch?v=RtSUi4P0Kuw",
       "thumbnail": "https://i.ytimg.com/vi/RtSUi4P0Kuw/hqdefault.jpg",
@@ -932,6 +996,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 15
+    "videos": 23
   }
 }
