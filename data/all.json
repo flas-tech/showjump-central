@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T00:49:45.752363+00:00",
+  "updated": "2026-11-22T10:34:42.002745+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,22 @@
   ],
   "videos": [
     {
+      "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R2",
+      "url": "https://www.youtube.com/watch?v=Bq5wvRDJvNg",
+      "thumbnail": "https://i.ytimg.com/vi/Bq5wvRDJvNg/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-22",
+      "source": "YouTube"
+    },
+    {
+      "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R1",
+      "url": "https://www.youtube.com/watch?v=RtSUi4P0Kuw",
+      "thumbnail": "https://i.ytimg.com/vi/RtSUi4P0Kuw/hqdefault.jpg",
+      "channel": "Global Champions Tour",
+      "published": "2026-11-22",
+      "source": "YouTube"
+    },
+    {
       "title": "LGCT SUPER GP VERONA SPORTHIGHLIGHTS",
       "url": "https://www.youtube.com/watch?v=_JXJWOGUjD0",
       "thumbnail": "https://i.ytimg.com/vi/_JXJWOGUjD0/hqdefault.jpg",
@@ -820,22 +836,6 @@
       "title": "LGCT Super Grand Prix winning round, Verona 2026 \ud83c\uddee\ud83c\uddf9\ud83d\udd25\ud83c\udfc6",
       "url": "https://www.youtube.com/watch?v=JEoYh_79ECk",
       "thumbnail": "https://i.ytimg.com/vi/JEoYh_79ECk/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-21",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R2",
-      "url": "https://www.youtube.com/watch?v=Bq5wvRDJvNg",
-      "thumbnail": "https://i.ytimg.com/vi/Bq5wvRDJvNg/hqdefault.jpg",
-      "channel": "Global Champions Tour",
-      "published": "2026-11-21",
-      "source": "YouTube"
-    },
-    {
-      "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R1",
-      "url": "https://www.youtube.com/watch?v=RtSUi4P0Kuw",
-      "thumbnail": "https://i.ytimg.com/vi/RtSUi4P0Kuw/hqdefault.jpg",
       "channel": "Global Champions Tour",
       "published": "2026-11-21",
       "source": "YouTube"
