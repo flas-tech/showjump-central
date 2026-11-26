@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:44:42.813941+00:00",
+  "updated": "2026-11-26T20:45:41.720772+00:00",
   "events": [
     {
       "id": "seed-3",
@@ -769,6 +769,30 @@
   ],
   "videos": [
     {
+      "title": "$32,000 CSI4* Holiday &amp; Horses 1.45 Two Phase Special | November 26th | Holiday &amp; Horses",
+      "url": "https://www.youtube.com/watch?v=0XRKLU7IOPY",
+      "thumbnail": "https://i.ytimg.com/vi/0XRKLU7IOPY/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-11-26",
+      "source": "YouTube"
+    },
+    {
+      "title": "$32,000 CSI4* Holiday &amp; Horses 1.45 Two Phase Special | November 26th | Holiday &amp; Horses",
+      "url": "https://www.youtube.com/watch?v=FzrzFiSWa2o",
+      "thumbnail": "https://i.ytimg.com/vi/FzrzFiSWa2o/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-11-26",
+      "source": "YouTube"
+    },
+    {
+      "title": "$6,000 CSI4* 1.40 Opener | November 26th | Holiday &amp; Horses",
+      "url": "https://www.youtube.com/watch?v=QZ-PWgPHTpw",
+      "thumbnail": "https://i.ytimg.com/vi/QZ-PWgPHTpw/hqdefault.jpg",
+      "channel": "Wellington International",
+      "published": "2026-11-26",
+      "source": "YouTube"
+    },
+    {
       "title": "LIVE STUDIO - LGCT Super Grand Prix of Verona - Pre-Show R2",
       "url": "https://www.youtube.com/watch?v=Bq5wvRDJvNg",
       "thumbnail": "https://i.ytimg.com/vi/Bq5wvRDJvNg/hqdefault.jpg",
@@ -935,22 +959,6 @@
       "channel": "Wellington International",
       "published": "2026-10-19",
       "source": "YouTube"
-    },
-    {
-      "title": "$10,000 CCTV Grand Prix | Show Jumping | 2026 ESP Fall I",
-      "url": "https://www.youtube.com/watch?v=4-2ATmsLBhU",
-      "thumbnail": "https://i.ytimg.com/vi/4-2ATmsLBhU/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-12",
-      "source": "YouTube"
-    },
-    {
-      "title": "$24,999 IDA Development Grand Prix | Show Jumping | 2026 ESP October",
-      "url": "https://www.youtube.com/watch?v=F5w3UlxC9BM",
-      "thumbnail": "https://i.ytimg.com/vi/F5w3UlxC9BM/hqdefault.jpg",
-      "channel": "Wellington International",
-      "published": "2026-10-05",
-      "source": "YouTube"
     }
   ],
   "sources": [
@@ -996,6 +1004,6 @@
     "results": 7,
     "rankings": 20,
     "riders": 20,
-    "videos": 23
+    "videos": 24
   }
 }
